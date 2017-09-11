@@ -7,17 +7,20 @@
 <li><a href="#sec-1-1">1.1. Routine tasks</a></li>
 <li><a href="#sec-1-2">1.2. Start a topic</a></li>
 <li><a href="#sec-1-3">1.3. Mindset</a></li>
-<li><a href="#sec-1-4">1.4. How to reply</a></li>
-<li><a href="#sec-1-5">1.5. Maintain a topic</a></li>
-<li><a href="#sec-1-6">1.6. Build connections from discussion</a></li>
-<li><a href="#sec-1-7">1.7. <span class="done DONE">DONE</span> linkedin use emoji icon: </a></li>
+<li><a href="#sec-1-4">1.4. How To reply</a></li>
+<li><a href="#sec-1-5">1.5. Maintain A Topic</a></li>
+<li><a href="#sec-1-6">1.6. Build Connections From Discussions</a></li>
+<li><a href="#sec-1-7">1.7. LinkedIn Tips</a>
+<ul>
+<li><a href="#sec-1-7-1">1.7.1. linkedin use emoji icons</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
--\*- mode:org; fill-column:70; coding:utf-8; -\*-
 
 # Grow Influence In LinkedIn<a id="sec-1" name="sec-1">[]</a>
 
@@ -52,23 +55,22 @@ For me:
 
 -   Treat every audience as a respectful professional
 
-## How to reply<a id="sec-1-4" name="sec-1-4">[]</a>
+## How To reply<a id="sec-1-4" name="sec-1-4">[]</a>
 
 -   Speak out people's name, and speak with due respect!
 
-## Maintain a topic<a id="sec-1-5" name="sec-1-5">[]</a>
+## Maintain A Topic<a id="sec-1-5" name="sec-1-5">[]</a>
 
--   第一句话，要抓人眼球
 -   Avoid getting people distracted from your original topic
--   自己不容否认的便利，是抵lai不掉的
--   人都有逆反心理
 -   Add a recap after 3 days: summarize the discussions
 
-## Build connections from discussion<a id="sec-1-6" name="sec-1-6">[]</a>
+## Build Connections From Discussions<a id="sec-1-6" name="sec-1-6">[]</a>
 
 -   Add connections and endorsement from Linkedin Discussions
 
-## DONE linkedin use emoji icon: <https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste-brynne-tillman><a id="sec-1-7" name="sec-1-7">[]</a>
+## LinkedIn Tips<a id="sec-1-7" name="sec-1-7">[]</a>
+
+### linkedin use emoji icons<a id="sec-1-7-1" name="sec-1-7-1">[]</a>
 
 <https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste-brynne-tillman>
 <https://www.linkedin.com/pulse/how-add-emojis-your-linkedin-profile-posts-john-nemo>

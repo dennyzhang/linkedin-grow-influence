@@ -1,4 +1,3 @@
--*- mode:org; fill-column:70; coding:utf-8; -*-
 #+TAGS: noexport(n)
 #+AUTHOR: dennyzhang.com (contact@dennyzhang.com)
 * Grow Influence In LinkedIn
@@ -24,25 +23,19 @@ For me:
 - Explain your question in a simple and easy-to-understand way: People are careless and biasd
 ** Mindset
 - Treat every audience as a respectful professional
-** How to reply
+** How To reply
 - Speak out people's name, and speak with due respect!
-** Maintain a topic
-- 第一句话，要抓人眼球
+** Maintain A Topic
 - Avoid getting people distracted from your original topic
-- 自己不容否认的便利，是抵lai不掉的
-- 人都有逆反心理
 - Add a recap after 3 days: summarize the discussions
-** Build connections from discussion
+** Build Connections From Discussions
 - Add connections and endorsement from Linkedin Discussions
-** DONE [#A] linkedin use emoji icon: https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste-brynne-tillman
-   CLOSED: [2017-07-19 Wed 15:55]
+** LinkedIn Tips
+*** linkedin use emoji icons
 https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste-brynne-tillman
 https://www.linkedin.com/pulse/how-add-emojis-your-linkedin-profile-posts-john-nemo
 ** #  --8<-------------------------- separator ------------------------>8-- :noexport:
 ** TODO [#A] Help others to solve questions they have posted: ask recommendations, if it's a good timing
-** misc                                                                   :noexport:
-*** 说话时埋坑，让对方有常规套路来互动
-*** Values: 得到开心, 解决问题, 得到治愈
 ** TODO Add Summary at the end of the discussion: for yourself and for the community
 - Only summarize popular discussions: 20+ comments
 - Only summarize constructive discussions: something you've learned
@@ -61,3 +54,11 @@ Guys, My Discussion Summary:
 Many thanks for everyone!
 
 https://www.linkedin.com/feed/update/urn:li:activity:6288957536393588736/
+** misc                                                                   :noexport:
+*** 说话时埋坑，让对方有常规套路来互动
+*** Values: 得到开心, 解决问题, 得到治愈
+** chinese principle                                               :noexport:
+- 第一句话，要抓人眼球
+- 自己不容否认的便利，是抵lai不掉的
+- 人都有逆反心理
+
