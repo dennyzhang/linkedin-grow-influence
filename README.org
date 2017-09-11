@@ -18,22 +18,194 @@ Ask the Right questions in a suitable question
 For me:
 - Get feedbacks for technical details; Get *the direction or trends* for the tech community
 ** Routine tasks
-- Linkedin send invitation for whoever likes or comments with your discussion: Not everyone in Linkedin are active
-- Send out freechat to close LinkedIn friends regularly
-** Start a topic
-- Principle: as long as people want to say something, and easy to chimp in mind
-- Start with a real story from yourself: it's ok to make fun of yourself, as long as it's real
-- Start with an easy and open question: either useful or funny
-- Explain your question in a simple and easy-to-understand way: People are careless and biasd
-** Mindset
-- Treat every audience as a respectful professional
-** How To reply
-- Speak out people's name, and speak with due respect!
+*** Send out private messages to close friends regularly
+*** Send Invitations for people likes or comments your updates
+Not everyone in Linkedin are active
 ** Maintain A Topic
-- Avoid getting people distracted from your original topic
-- Add a recap after 3 days: summarize the discussions
+*** Avoid getting people distracted from your original topic
+*** Add a recap after 3 days: summarize the discussions
+** Start a topic
+*** Principle: as long as people want to say something, and easy to chimp in mind
+*** Start with a real story from yourself: it's ok to make fun of yourself, as long as it's real
+*** Start with an easy and open question: either useful or funny
+*** Explain your question in a simple and easy-to-understand way: People are careless and biasd
+** Mindset
+*** Treat every audience as a respectful professional
+** How To reply
+*** Speak out people's name, and speak with due respect!
 ** Build Connections From Discussions
-- Add connections and endorsement from Linkedin Discussions
+*** Add connections and endorsement from Linkedin Discussions
+** LinkedIn Role Models
+- Be connected with Active publisher in Linkedin Groups
+** LinkedIn Doc Templates
+*** [#A] Doc template: Send gratitude for who give me valuable feedback for Linkedin discussions
+   CLOSED: [2017-09-05 Tue 16:31]
+#+BEGIN_EXAMPLE
+Denny Zhang sent the following message at 5:36 PM
+Paul, nice talking with you in LinkedIn.  Looking forward to more DevOps discussions with you in the coming weeks!
+#+END_EXAMPLE
+*** [#A] Doc template: People thanks me for endorsing
+   CLOSED: [2017-08-08 Tue 13:18]
+#+BEGIN_EXAMPLE
+Thanks for endorsing me for Cloud Computing!
+9:29 PM
+Denny Zhang sent the following message at 9:32 PM
+Sure thing, Praveen. Nice to have the DevOps discussion with you in LInkedIn.  Looking forward to more in the coming weeks! I do see lots of things in common with you, Praveen.
+#+END_EXAMPLE
+*** Doc template: Reject reply a specific question in LinkedIn
+   CLOSED: [2017-07-24 Mon 10:33]
+#+BEGIN_EXAMPLE
+XXX
+
+Looks like stack overflow is a better place for this kind of questions.
+
+F.Y.I 
+
+I usually use LinkedIn to ask for experience and directions. Instead of tech details.
+For specific issues, we usually can fix with enough reading and testing sooner or later.
+
+After all, any skilled IT professional would already be very busy with his/her daily work. Right, my friend?
+#+END_EXAMPLE
+
+**** sample                                                        :noexport:
+#+BEGIN_EXAMPLE
+hello I have one question
+ Sunil Kumar
+I just want to export those two env variables and start using aws athena service without using docker, Can I...?
+ Sunil Kumar
+first edit .env file adding  export REDASH_ADDITIONAL_QUERY_RUNNERS="redash.query_runner.athena" export ATHENA_PROXY_URL=http://localhost:4567/query  then run the docker with the aws athena proxy use the 4567 port  sudo docker run -d --name redash-aws-athena-proxy -p 4567:4567 image_id  test the setup, be sure to replace your aws credentials and s3 data stage bucket  curl -H "Accept: application/json" \ -H "Content-type: application/json" \ -X POST -d '{"athenaUrl":"jdbc:awsathena://athena.[us-east-1|us-east-1].amazonaws.com:443/","awsAccessKey":"awsAccessKey","awsSecretKey":"awsSecretKey","s3StagingDir":"s3://data/stage","query":"SELECT 1"}' \ http://localhost:4567/query  restart all  sudo supervisorctl restart all  enjoy
+4:13 PM
+Denny Zhang sent the following message at 4:15 PM
+Hmm, looks like stack overflow is a better place for this kind of questions, Sunil
+4:15 PM
+Sunil Kumar sent the following message at 4:16 PM
+ Sunil Kumar
+yeah looked for it, didnt find proper answer, anyways thanks for answering denny
+4:16 PM
+Denny Zhang sent the following message at 4:18 PM
+Np, F.Y.I I used to asking for experience from LinkedIn. For very specific issue, it's not suitable place. After all, any skilled IT professional would be very busy with his/her daily work. Right, my friend?
+4:18 PM
+Sunil Kumar sent the following messages at 4:21 PM
+ Sunil Kumar
+yeah sorry for that
+ Sunil Kumar
+I apologize for that
+4:21 PM
+Read  Sunil Kumar
+Denny Zhang sent the following message at 4:22 PM
+Oh, that's fine.  Just some personal experience, Sunil.  Hope you can figure out the root cause by yourself very soon.
+#+END_EXAMPLE
+#+BEGIN_EXAMPLE
+Hey Denny,   I have a quick question to ask. Since you have a good number of devops connections in your profile, I would like to know following:  1. How are you managing your DHCP server? What are you doing for IP reservations? 2. Is there any open source tool you can suggest to manage DHCP, which can work like IPAM (IP Management Tool).  It would be a nice discussion and lot to learn I think so. What you say?  Regards, Savitoj Singh
+ Savitoj Singh
+It would be nice if you can ask these questions so that your connections can give us more insights. Thank you
+Hi Savitoj, thanks for asking.   Frankly speaking, I don't quite get your painpoint.   I think it would be more effective, if you can do more thinking and researching. Then you can post your questions in Linkedin or stackoverflow directly.
+4:04 PM
+Savitoj Singh sent the following message at 4:07 PM
+ Savitoj Singh
+Hey Denny,  No problem at all. You're right, I'll do more research and post.  Thank you
+4:07 PM
+Read  Savitoj Singh
+Denny Zhang sent the following messages at 4:09 PM
+Nowadays most people are living in the world of public cloud.  This makes local DHCP less popular. Surely your problem matters for your project. I fully understand that.
+Just I don't want to spam people with things they may not be interested. Hope you understand, my friend.
+#+END_EXAMPLE
+*** Doc template: People ask career advice
+   CLOSED: [2017-08-15 Tue 09:10]
+#+BEGIN_EXAMPLE
+Hey, nice reading your profile. I am currently a full stack python developer, and i have now experience with shell script and linux and i am comfortable with both of these. I am writing to you as i am very uncertain as to what to choose for my career. I ahve done courses on puppet, ansible, docker and AWS solutions architect and i use them in my personal projects. I also have experience with machine learning and have been doing projects on the same. I wanted to seek your help on how should i direct my career towards. I desperately need your inputs. Thanks :)
+8:49 AM
+Denny Zhang sent the following message at 8:51 AM
+Akash, thanks for asking. I don't quite get your point.  So what you want, or who you want to be?
+8:51 AM
+Akash Ranjan sent the following messages at 8:54 AM
+ Akash Ranjan
+I am not very clear, i just know one thing that i am very confident that i can do whatever i want to do. I am very persistent and hard working. But i lack a good mentorship and direction. Any help would be deeply appreciated.
+ Akash Ranjan
+I can do whatever the market demands as a prestigious role or say i am interested in doing a sophisticated and complicated tasks.
+8:54 AM
+Denny Zhang sent the following message at 9:00 AM
+I think that's a question for yourself, Akash. Everyone needs to find his/her own way.  Not sure whether it helps. Here is my story. When I graduated from the college, I evaluated my weakness and strength. (As a newbie, you can't get it right and accurate.)  I know I'm not interested as salesmen, and I don't feel comfortable if I say something I can't understand or believe.  Then I find my best job I can, which it's EMC. Inside EMC, it takes several years to understand my passion: keep polishing and improving things.  Afterwards I swift from IaaS engineer, to PaaS, to full stack. And now devops.  To be simple, understand yourself and your desire. Follow your passion. Don't follow the money. It will come, if you can bring values to others.
+9:00 AM
+Akash Ranjan sent the following message at 9:02 AM
+ Akash Ranjan
+It did helped :) thanks :) i will be in touch with you :)
+9:02 AM
+Denny Zhang sent the following message at 9:06 AM
+You're on your own for this journey. Keep thinking.  Follow your passion, or at least what interests you.  Dedication and determination are the keys. And any serious achievements will take several years' hard work.   Remember don't follow the money. You will be mislead easily.
+9:06 AM
+Akash Ranjan sent the following message at 9:07 AM
+ Akash Ranjan
+Thanks :) appreciate
+9:07 AM
+Read 
+#+END_EXAMPLE
+*** Doc template: Why you connect with me from new connections
+   CLOSED: [2017-07-24 Mon 10:36]
+#+BEGIN_EXAMPLE
+Elsa Hill
+Hi Denny, trying to remember how we know each other ... maybe you can remind me?
+
+#  --8<-------------------------- separator ------------------------>8--
+Hi XXX
+
+I noticed we're working in DevOps field with lots of common skills.
+
+It would be nice, if we can have in-depth technical discussions on the internet.
+
+So I reach out to be connected with you, XXX.
+#+END_EXAMPLE
+*** Doc template: reject audience who is not your target
+   CLOSED: [2017-08-17 Thu 17:11]
+#+BEGIN_EXAMPLE
+JJ
+
+Try google . Docker compose is a very typical solution in container world. 
+
+My blog is supposed to serve DevOps community. And docker is default skill for DevOps professionals.
+
+Sorry I really don't have bandwidth to support people who are not in the target audience. You are on your own now. Good luck.
+
+Sent from my iPhone
+
+On Aug 17, 2017, at 5:27 AM, JJmanuel Shadowsocks <mjeusomjerie@gmail.com> wrote:
+
+Sir do you have any tutorial with this docker compose you are talking about.,? Can you please help me with your step by step procedure.. im am so willing to learn and even it so hard i will try my best to learn somehow..
+#+END_EXAMPLE
+*** Doc template: career guide for DevOps newbie
+   CLOSED: [2017-08-14 Mon 11:23]
+#+BEGIN_EXAMPLE
+XXX, maybe you can check this LinkedIn discussion? 
+
+https://www.linkedin.com/feed/update/urn:li:activity:6302225978567507968
+
+Add comments, if you need more advice. People might help.
+
+#  --8<-------------------------- separator ------------------------>8--
+XXX, I understand your pain points. You want experience, learn more and learn faster. Then get a good job offer.
+
+However it's hard for me to answer that. So many variables. Maybe you can check below LinkedIn discussion. See whether it helps.
+#+END_EXAMPLE
+
+#+BEGIN_EXAMPLE
+I have only 1 yr exp in devops. Can you suggest some career path which will help me to grow as devops engineer.
+#+END_EXAMPLE
+
+#+BEGIN_EXAMPLE
+Hi Denny
+ Sanith Raj S
+I'm a linux system engineer working on apache cloud stalk and onapp
+ Sanith Raj S
+I want to build my carrier on Devops. I'm having knowledge in Ansible,Docker,GIT,Puppet and working knowledge in AWS
+ Sanith Raj S
+Also having skill in Bash & Python scripting
+ Sanith Raj S
+If you don't mind, can you guide me how I can build my carrier in Devops
+12:11 PM
+Denny Zhang sent the following message at 2:39 PM
+Sanity, I would say: Getting involved in our DevOps Discussions in LinkedIn. Try to deliver your daily work as perfect as possible. Then you will do fine.
+#+END_EXAMPLE
+
 ** LinkedIn Tips
 *** linkedin use emoji icons
 https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste-brynne-tillman
@@ -66,3 +238,15 @@ https://www.linkedin.com/feed/update/urn:li:activity:6288957536393588736/
 - 自己不容否认的便利，是抵lai不掉的
 - 人都有逆反心理
 
+** #  --8<-------------------------- separator ------------------------>8-- :noexport:
+** [#A] Make better usage of LinkedIn                              :noexport:
+*** HALF send connection invitation for who likes/comments my Linkedin update in the past one month
+*** HALF peroical endorse and give recommendations for your new close friends in Linkedin
+*** HALF Ask people to take small actions, which will only take seconds
+*** #  --8<-------------------------- separator ------------------------>8--
+*** DONE integrate Linkedin with my wordpress: Add LinkedIn screenshot to blog posts
+    CLOSED: [2017-09-05 Tue 10:29]
+*** DONE Offer volunteer help in LinkedIn by starting private conversations
+    CLOSED: [2017-09-05 Tue 10:30]
+*** DONE Ask people to take actions: add LinkedIn
+    CLOSED: [2017-08-15 Tue 22:25]
