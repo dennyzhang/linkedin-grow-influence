@@ -1,5 +1,5 @@
 #+TAGS: noexport(n)
-#+OPTIONS: toc:2 \n:t ^:nil creator:nil d:nil
+#+OPTIONS: toc:3 \n:t ^:nil creator:nil d:nil
 #+AUTHOR: dennyzhang.com (contact@dennyzhang.com)
 #+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
 * Grow Influence In LinkedIn

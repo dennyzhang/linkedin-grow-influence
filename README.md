@@ -4,15 +4,58 @@
 <ul>
 <li><a href="#sec-1">1. Grow Influence In LinkedIn</a>
 <ul>
-<li><a href="#sec-1-1">1.1. Routine tasks</a></li>
-<li><a href="#sec-1-2">1.2. Maintain A Topic</a></li>
-<li><a href="#sec-1-3">1.3. Start a topic</a></li>
-<li><a href="#sec-1-4">1.4. Mindset</a></li>
-<li><a href="#sec-1-5">1.5. How To reply</a></li>
-<li><a href="#sec-1-6">1.6. Build Connections From Discussions</a></li>
+<li><a href="#sec-1-1">1.1. Routine tasks</a>
+<ul>
+<li><a href="#sec-1-1-1">1.1.1. Send out private messages to close friends regularly</a></li>
+<li><a href="#sec-1-1-2">1.1.2. Send Invitations for people likes or comments your updates</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-2">1.2. Maintain A Topic</a>
+<ul>
+<li><a href="#sec-1-2-1">1.2.1. Avoid getting people distracted from your original topic</a></li>
+<li><a href="#sec-1-2-2">1.2.2. Add a recap after 3 days: summarize the discussions</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-3">1.3. Start a topic</a>
+<ul>
+<li><a href="#sec-1-3-1">1.3.1. Principle: as long as people want to say something, and easy to chimp in mind</a></li>
+<li><a href="#sec-1-3-2">1.3.2. Start with a real story from yourself: it's ok to make fun of yourself, as long as it's real</a></li>
+<li><a href="#sec-1-3-3">1.3.3. Start with an easy and open question: either useful or funny</a></li>
+<li><a href="#sec-1-3-4">1.3.4. Explain your question in a simple and easy-to-understand way: People are careless and biasd</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-4">1.4. Mindset</a>
+<ul>
+<li><a href="#sec-1-4-1">1.4.1. Treat every audience as a respectful professional</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-5">1.5. How To reply</a>
+<ul>
+<li><a href="#sec-1-5-1">1.5.1. Speak out people's name, and speak with due respect!</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-6">1.6. Build Connections From Discussions</a>
+<ul>
+<li><a href="#sec-1-6-1">1.6.1. Add connections and endorsement from Linkedin Discussions</a></li>
+</ul>
+</li>
 <li><a href="#sec-1-7">1.7. LinkedIn Role Models</a></li>
-<li><a href="#sec-1-8">1.8. LinkedIn Doc Templates</a></li>
-<li><a href="#sec-1-9">1.9. LinkedIn Tips</a></li>
+<li><a href="#sec-1-8">1.8. LinkedIn Doc Templates</a>
+<ul>
+<li><a href="#sec-1-8-1">1.8.1. Doc template: Send gratitude for who give me valuable feedback for Linkedin discussions</a></li>
+<li><a href="#sec-1-8-2">1.8.2. Doc template: People thanks me for endorsing</a></li>
+<li><a href="#sec-1-8-3">1.8.3. Doc template: Reject reply a specific question in LinkedIn</a></li>
+<li><a href="#sec-1-8-4">1.8.4. Doc template: People ask career advice</a></li>
+<li><a href="#sec-1-8-5">1.8.5. Doc template: Why you connect with me from new connections</a></li>
+<li><a href="#sec-1-8-6">1.8.6. Doc template: reject audience who is not your target</a></li>
+<li><a href="#sec-1-8-7">1.8.7. Doc template: career guide for DevOps newbie</a></li>
+</ul>
+</li>
+<li><a href="#sec-1-9">1.9. LinkedIn Tips</a>
+<ul>
+<li><a href="#sec-1-9-1">1.9.1. linkedin use emoji icons</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
