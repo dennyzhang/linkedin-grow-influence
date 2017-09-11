@@ -10,11 +10,7 @@
 <li><a href="#sec-1-4">1.4. How To reply</a></li>
 <li><a href="#sec-1-5">1.5. Maintain A Topic</a></li>
 <li><a href="#sec-1-6">1.6. Build Connections From Discussions</a></li>
-<li><a href="#sec-1-7">1.7. LinkedIn Tips</a>
-<ul>
-<li><a href="#sec-1-7-1">1.7.1. linkedin use emoji icons</a></li>
-</ul>
-</li>
+<li><a href="#sec-1-7">1.7. LinkedIn Tips</a></li>
 </ul>
 </li>
 </ul>
@@ -24,7 +20,9 @@
 
 # Grow Influence In LinkedIn<a id="sec-1" name="sec-1">[]</a>
 
-Ask the Right questions in a suitable question
+Github Link: <https://github.com/DennyZhang/linkedin-grow-influence>  
+
+Ask the Right questions in a suitable question  
 
 -   Principle: No matter you post or comment, make sure it add values to your audience
 
@@ -35,7 +33,7 @@ Ask the Right questions in a suitable question
 -   Add comments, instead of likes: It helps to promote yourself
 -   short sentence win
 
-For me:
+For me:  
 
 -   Get feedbacks for technical details; Get **the direction or trends** for the tech community
 
@@ -72,5 +70,5 @@ For me:
 
 ### linkedin use emoji icons<a id="sec-1-7-1" name="sec-1-7-1">[]</a>
 
-<https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste-brynne-tillman>
+<https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste-brynne-tillman>  
 <https://www.linkedin.com/pulse/how-add-emojis-your-linkedin-profile-posts-john-nemo>

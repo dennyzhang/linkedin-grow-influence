@@ -1,6 +1,10 @@
 #+TAGS: noexport(n)
+#+OPTIONS: toc:2 \n:t ^:nil creator:nil d:nil
 #+AUTHOR: dennyzhang.com (contact@dennyzhang.com)
+#+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
 * Grow Influence In LinkedIn
+Github Link: https://github.com/DennyZhang/linkedin-grow-influence
+
 Ask the Right questions in a suitable question
 - Principle: No matter you post or comment, make sure it add values to your audience
 
