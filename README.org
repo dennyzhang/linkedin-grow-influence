@@ -13,29 +13,27 @@ Similar Projects:
 
 --------------------------------------------------------
 
-Ask the Right questions in a suitable question
-- Principle: No matter you post or comment, make sure it add values to your audience
-
-- Principle: Boostbluffing < Talk < Listen < Learn
-- Principle: Fake won't work. You have to be real and serious.
-- Principle: When you reshare others' update, add value
-- Principle: Talk just like face-to-face
-- Add comments, instead of likes: It helps to promote yourself
-- short sentence win
-
-For me:
-- Get feedbacks for technical details; Get *the direction or trends* for the tech community
-** Routine tasks
-*** Send out private messages to close friends regularly
-*** Send Invitations for people likes or comments your updates
-Not everyone in Linkedin are active
 ** Principle
 *** Grow everything in an oragnic way
 - People have been forced to endorse you
+*** Talk just like face-to-face
+*** short sentence win
+*** No matter you post or comment, make sure it add values to your audience
+*** Fake won't work. You have to be real and serious.
+*** Boostbluffing < Talk < Listen < Learn
 *** Reach out people and offer helps
+** Routine tasks
+*** Add comments, instead of likes: It helps to promote yourself
+*** Send out private messages to close friends regularly
+*** Send Invitations for people likes or comments your updates
+Not everyone in Linkedin are active
 ** Maintain A Topic
 *** Avoid getting people distracted from your original topic
+*** Ask the Right questions in a suitable question
 *** Add a recap after 3 days: summarize the discussions
+** Benefits
+*** Get feedbacks for technical details
+*** Get *the direction or trends* for the tech community
 ** Start a topic
 *** Principle: as long as people want to say something, and easy to chimp in mind
 *** Start with a real story from yourself: it's ok to make fun of yourself, as long as it's real
