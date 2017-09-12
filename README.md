@@ -32,7 +32,9 @@
 <li><a href="#sec-1-3">1.3. Lessons learned</a>
 <ul>
 <li><a href="#sec-1-3-1">1.3.1. You com here to learn, instead of teach or sell</a></li>
-<li><a href="#sec-1-3-2">1.3.2. Avoid talking nonsense or common sense: waste times for both sides</a></li>
+<li><a href="#sec-1-3-2">1.3.2. Only selectively topics are discussed on the internet</a></li>
+<li><a href="#sec-1-3-3">1.3.3. Always remember: Lots of experienced professionals are inactive in social media</a></li>
+<li><a href="#sec-1-3-4">1.3.4. Avoid talking nonsense or common sense: waste times for both sides</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-4">1.4. Maintain A Topic</a>
@@ -157,7 +159,11 @@ Not everyone in Linkedin are active
 
 ### You com here to learn, instead of teach or sell<a id="sec-1-3-1" name="sec-1-3-1">[]</a>
 
-### Avoid talking nonsense or common sense: waste times for both sides<a id="sec-1-3-2" name="sec-1-3-2">[]</a>
+### Only selectively topics are discussed on the internet<a id="sec-1-3-2" name="sec-1-3-2">[]</a>
+
+### Always remember: Lots of experienced professionals are inactive in social media<a id="sec-1-3-3" name="sec-1-3-3">[]</a>
+
+### Avoid talking nonsense or common sense: waste times for both sides<a id="sec-1-3-4" name="sec-1-3-4">[]</a>
 
 ## Maintain A Topic<a id="sec-1-4" name="sec-1-4">[]</a>
 
