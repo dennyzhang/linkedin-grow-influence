@@ -82,7 +82,7 @@
 # Grow Influence In LinkedIn<a id="sec-1" name="sec-1">[]</a>
 
 -   Github Repo: <https://github.com/DennyZhang/linkedin-grow-influence>
--   About this topic, for things you want to know: File me [tickets](<https://github.com/DennyZhang/linkedin-grow-influence>)
+-   For missing points: File me [tickets](<https://github.com/DennyZhang/linkedin-grow-influence/issues>)
 
 Similar Projects:  
 
