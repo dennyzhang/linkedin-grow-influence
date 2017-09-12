@@ -74,7 +74,7 @@
 
 Github Repo: <https://github.com/DennyZhang/linkedin-grow-influence>  
 
-Connect with me in \\![Github](![img](//www.dennyzhang.com/wp-content/uploads/sns/denny_github.png)) or \\![Linkedin](![img](//www.dennyzhang.com/wp-content/uploads/sns/denny_linkedin.png)).  
+Connect with me in [\\![Github](![img](//www.dennyzhang.com/wp-content/uploads/sns/denny_github.png))](<https://github.com/DennyZhang>) or \\![Linkedin](![img](//www.dennyzhang.com/wp-content/uploads/sns/denny_linkedin.png)).  
 
 Ask the Right questions in a suitable question  
 
