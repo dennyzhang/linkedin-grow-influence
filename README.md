@@ -13,6 +13,7 @@
 <li><a href="#sec-1-1-5">1.1.5. Fake won't work. You have to be real and serious.</a></li>
 <li><a href="#sec-1-1-6">1.1.6. Boostbluffing &lt; Talk &lt; Listen &lt; Learn</a></li>
 <li><a href="#sec-1-1-7">1.1.7. Reach out people and offer helps</a></li>
+<li><a href="#sec-1-1-8">1.1.8. Treat every audience as a respectful professional</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-2">1.2. Routine tasks</a>
@@ -37,43 +38,38 @@
 </li>
 <li><a href="#sec-1-5">1.5. Start a topic</a>
 <ul>
-<li><a href="#sec-1-5-1">1.5.1. Principle: as long as people want to say something, and easy to chimp in mind</a></li>
-<li><a href="#sec-1-5-2">1.5.2. Start with a real story from yourself: it's ok to make fun of yourself, as long as it's real</a></li>
-<li><a href="#sec-1-5-3">1.5.3. Start with an easy and open question: either useful or funny</a></li>
-<li><a href="#sec-1-5-4">1.5.4. Explain your question in a simple and easy-to-understand way: People are careless and biasd</a></li>
+<li><a href="#sec-1-5-1">1.5.1. Start with a real story from yourself: it's ok to make fun of yourself, as long as it's real</a></li>
+<li><a href="#sec-1-5-2">1.5.2. Start with an easy and open question: either useful or funny</a></li>
+<li><a href="#sec-1-5-3">1.5.3. Explain your question in a simple and easy-to-understand way: People are careless and biasd</a></li>
+<li><a href="#sec-1-5-4">1.5.4. As long as people want to say something, and easy to chimp in mind</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-6">1.6. Mindset</a>
+<li><a href="#sec-1-6">1.6. How To reply</a>
 <ul>
-<li><a href="#sec-1-6-1">1.6.1. Treat every audience as a respectful professional</a></li>
+<li><a href="#sec-1-6-1">1.6.1. Speak out people's name, and speak with due respect!</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-7">1.7. How To reply</a>
+<li><a href="#sec-1-7">1.7. Build Connections From Discussions</a>
 <ul>
-<li><a href="#sec-1-7-1">1.7.1. Speak out people's name, and speak with due respect!</a></li>
+<li><a href="#sec-1-7-1">1.7.1. Add connections and endorsement from Linkedin Discussions</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-8">1.8. Build Connections From Discussions</a>
+<li><a href="#sec-1-8">1.8. LinkedIn Role Models</a></li>
+<li><a href="#sec-1-9">1.9. LinkedIn Doc Templates</a>
 <ul>
-<li><a href="#sec-1-8-1">1.8.1. Add connections and endorsement from Linkedin Discussions</a></li>
+<li><a href="#sec-1-9-1">1.9.1. Doc template: Send gratitude for who give me valuable feedback for Linkedin discussions</a></li>
+<li><a href="#sec-1-9-2">1.9.2. Doc template: People thanks me for endorsing</a></li>
+<li><a href="#sec-1-9-3">1.9.3. Doc template: Reject reply a specific question in LinkedIn</a></li>
+<li><a href="#sec-1-9-4">1.9.4. Doc template: People ask career advice</a></li>
+<li><a href="#sec-1-9-5">1.9.5. Doc template: Why you connect with me from new connections</a></li>
+<li><a href="#sec-1-9-6">1.9.6. Doc template: reject audience who is not your target</a></li>
+<li><a href="#sec-1-9-7">1.9.7. Doc template: career guide for DevOps newbie</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-9">1.9. LinkedIn Role Models</a></li>
-<li><a href="#sec-1-10">1.10. LinkedIn Doc Templates</a>
+<li><a href="#sec-1-10">1.10. Recommended Books</a></li>
+<li><a href="#sec-1-11">1.11. LinkedIn Tips</a>
 <ul>
-<li><a href="#sec-1-10-1">1.10.1. Doc template: Send gratitude for who give me valuable feedback for Linkedin discussions</a></li>
-<li><a href="#sec-1-10-2">1.10.2. Doc template: People thanks me for endorsing</a></li>
-<li><a href="#sec-1-10-3">1.10.3. Doc template: Reject reply a specific question in LinkedIn</a></li>
-<li><a href="#sec-1-10-4">1.10.4. Doc template: People ask career advice</a></li>
-<li><a href="#sec-1-10-5">1.10.5. Doc template: Why you connect with me from new connections</a></li>
-<li><a href="#sec-1-10-6">1.10.6. Doc template: reject audience who is not your target</a></li>
-<li><a href="#sec-1-10-7">1.10.7. Doc template: career guide for DevOps newbie</a></li>
-</ul>
-</li>
-<li><a href="#sec-1-11">1.11. Recommended Books</a></li>
-<li><a href="#sec-1-12">1.12. LinkedIn Tips</a>
-<ul>
-<li><a href="#sec-1-12-1">1.12.1. linkedin use emoji icons</a></li>
+<li><a href="#sec-1-11-1">1.11.1. linkedin use emoji icons</a></li>
 </ul>
 </li>
 </ul>
@@ -114,6 +110,8 @@ Similar Projects:
 
 ### Reach out people and offer helps<a id="sec-1-1-7" name="sec-1-1-7">[]</a>
 
+### Treat every audience as a respectful professional<a id="sec-1-1-8" name="sec-1-1-8">[]</a>
+
 ## Routine tasks<a id="sec-1-2" name="sec-1-2">[]</a>
 
 ### Add comments, instead of likes: It helps to promote yourself<a id="sec-1-2-1" name="sec-1-2-1">[]</a>
@@ -140,45 +138,41 @@ Not everyone in Linkedin are active
 
 ## Start a topic<a id="sec-1-5" name="sec-1-5">[]</a>
 
-### Principle: as long as people want to say something, and easy to chimp in mind<a id="sec-1-5-1" name="sec-1-5-1">[]</a>
+### Start with a real story from yourself: it's ok to make fun of yourself, as long as it's real<a id="sec-1-5-1" name="sec-1-5-1">[]</a>
 
-### Start with a real story from yourself: it's ok to make fun of yourself, as long as it's real<a id="sec-1-5-2" name="sec-1-5-2">[]</a>
+### Start with an easy and open question: either useful or funny<a id="sec-1-5-2" name="sec-1-5-2">[]</a>
 
-### Start with an easy and open question: either useful or funny<a id="sec-1-5-3" name="sec-1-5-3">[]</a>
+### Explain your question in a simple and easy-to-understand way: People are careless and biasd<a id="sec-1-5-3" name="sec-1-5-3">[]</a>
 
-### Explain your question in a simple and easy-to-understand way: People are careless and biasd<a id="sec-1-5-4" name="sec-1-5-4">[]</a>
+### As long as people want to say something, and easy to chimp in mind<a id="sec-1-5-4" name="sec-1-5-4">[]</a>
 
-## Mindset<a id="sec-1-6" name="sec-1-6">[]</a>
+## How To reply<a id="sec-1-6" name="sec-1-6">[]</a>
 
-### Treat every audience as a respectful professional<a id="sec-1-6-1" name="sec-1-6-1">[]</a>
+### Speak out people's name, and speak with due respect!<a id="sec-1-6-1" name="sec-1-6-1">[]</a>
 
-## How To reply<a id="sec-1-7" name="sec-1-7">[]</a>
+## Build Connections From Discussions<a id="sec-1-7" name="sec-1-7">[]</a>
 
-### Speak out people's name, and speak with due respect!<a id="sec-1-7-1" name="sec-1-7-1">[]</a>
+### Add connections and endorsement from Linkedin Discussions<a id="sec-1-7-1" name="sec-1-7-1">[]</a>
 
-## Build Connections From Discussions<a id="sec-1-8" name="sec-1-8">[]</a>
-
-### Add connections and endorsement from Linkedin Discussions<a id="sec-1-8-1" name="sec-1-8-1">[]</a>
-
-## LinkedIn Role Models<a id="sec-1-9" name="sec-1-9">[]</a>
+## LinkedIn Role Models<a id="sec-1-8" name="sec-1-8">[]</a>
 
 -   Be connected with Active publisher in Linkedin Groups
 
-## LinkedIn Doc Templates<a id="sec-1-10" name="sec-1-10">[]</a>
+## LinkedIn Doc Templates<a id="sec-1-9" name="sec-1-9">[]</a>
 
-### Doc template: Send gratitude for who give me valuable feedback for Linkedin discussions<a id="sec-1-10-1" name="sec-1-10-1">[]</a>
+### Doc template: Send gratitude for who give me valuable feedback for Linkedin discussions<a id="sec-1-9-1" name="sec-1-9-1">[]</a>
 
     Denny Zhang sent the following message at 5:36 PM
     Paul, nice talking with you in LinkedIn.  Looking forward to more DevOps discussions with you in the coming weeks!
 
-### Doc template: People thanks me for endorsing<a id="sec-1-10-2" name="sec-1-10-2">[]</a>
+### Doc template: People thanks me for endorsing<a id="sec-1-9-2" name="sec-1-9-2">[]</a>
 
     Thanks for endorsing me for Cloud Computing!
     9:29 PM
     Denny Zhang sent the following message at 9:32 PM
     Sure thing, Praveen. Nice to have the DevOps discussion with you in LInkedIn.  Looking forward to more in the coming weeks! I do see lots of things in common with you, Praveen.
 
-### Doc template: Reject reply a specific question in LinkedIn<a id="sec-1-10-3" name="sec-1-10-3">[]</a>
+### Doc template: Reject reply a specific question in LinkedIn<a id="sec-1-9-3" name="sec-1-9-3">[]</a>
 
     XXX
     
@@ -191,7 +185,7 @@ Not everyone in Linkedin are active
     
     After all, any skilled IT professional would already be very busy with his/her daily work. Right, my friend?
 
-### Doc template: People ask career advice<a id="sec-1-10-4" name="sec-1-10-4">[]</a>
+### Doc template: People ask career advice<a id="sec-1-9-4" name="sec-1-9-4">[]</a>
 
     Hey, nice reading your profile. I am currently a full stack python developer, and i have now experience with shell script and linux and i am comfortable with both of these. I am writing to you as i am very uncertain as to what to choose for my career. I ahve done courses on puppet, ansible, docker and AWS solutions architect and i use them in my personal projects. I also have experience with machine learning and have been doing projects on the same. I wanted to seek your help on how should i direct my career towards. I desperately need your inputs. Thanks :)
     8:49 AM
@@ -220,7 +214,7 @@ Not everyone in Linkedin are active
     9:07 AM
     Read
 
-### Doc template: Why you connect with me from new connections<a id="sec-1-10-5" name="sec-1-10-5">[]</a>
+### Doc template: Why you connect with me from new connections<a id="sec-1-9-5" name="sec-1-9-5">[]</a>
 
     Elsa Hill
     Hi Denny, trying to remember how we know each other ... maybe you can remind me?
@@ -234,7 +228,7 @@ Not everyone in Linkedin are active
     
     So I reach out to be connected with you, XXX.
 
-### Doc template: reject audience who is not your target<a id="sec-1-10-6" name="sec-1-10-6">[]</a>
+### Doc template: reject audience who is not your target<a id="sec-1-9-6" name="sec-1-9-6">[]</a>
 
     JJ
     
@@ -250,7 +244,7 @@ Not everyone in Linkedin are active
     
     Sir do you have any tutorial with this docker compose you are talking about.,? Can you please help me with your step by step procedure.. im am so willing to learn and even it so hard i will try my best to learn somehow..
 
-### Doc template: career guide for DevOps newbie<a id="sec-1-10-7" name="sec-1-10-7">[]</a>
+### Doc template: career guide for DevOps newbie<a id="sec-1-9-7" name="sec-1-9-7">[]</a>
 
     XXX, maybe you can check this LinkedIn discussion? 
     
@@ -278,13 +272,13 @@ Not everyone in Linkedin are active
     Denny Zhang sent the following message at 2:39 PM
     Sanity, I would say: Getting involved in our DevOps Discussions in LinkedIn. Try to deliver your daily work as perfect as possible. Then you will do fine.
 
-## Recommended Books<a id="sec-1-11" name="sec-1-11">[]</a>
+## Recommended Books<a id="sec-1-10" name="sec-1-10">[]</a>
 
 -   TODO
 
-## LinkedIn Tips<a id="sec-1-12" name="sec-1-12">[]</a>
+## LinkedIn Tips<a id="sec-1-11" name="sec-1-11">[]</a>
 
-### linkedin use emoji icons<a id="sec-1-12-1" name="sec-1-12-1">[]</a>
+### linkedin use emoji icons<a id="sec-1-11-1" name="sec-1-11-1">[]</a>
 
 <https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste-brynne-tillman>  
 <https://www.linkedin.com/pulse/how-add-emojis-your-linkedin-profile-posts-john-nemo>
