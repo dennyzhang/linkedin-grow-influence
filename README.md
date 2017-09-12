@@ -13,14 +13,16 @@
 <li><a href="#sec-1-1-5">1.1.5. Fake won't work. You have to be real and serious.</a></li>
 <li><a href="#sec-1-1-6">1.1.6. Boostbluffing &lt; Talk &lt; Listen &lt; Learn</a></li>
 <li><a href="#sec-1-1-7">1.1.7. Reach out people and offer helps</a></li>
-<li><a href="#sec-1-1-8">1.1.8. Treat every audience as a respectful professional</a></li>
+<li><a href="#sec-1-1-8">1.1.8. Real and deep conversations starts from private messages</a></li>
+<li><a href="#sec-1-1-9">1.1.9. Treat every audience as a respectful professional</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-2">1.2. Routine tasks</a>
 <ul>
 <li><a href="#sec-1-2-1">1.2.1. Add comments, instead of likes: It helps to promote yourself</a></li>
 <li><a href="#sec-1-2-2">1.2.2. Send out private messages to close friends regularly</a></li>
-<li><a href="#sec-1-2-3">1.2.3. Send Invitations for people likes or comments your updates</a></li>
+<li><a href="#sec-1-2-3">1.2.3. Find questions to answers</a></li>
+<li><a href="#sec-1-2-4">1.2.4. Send Invitations for people likes or comments your updates</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-3">1.3. Maintain A Topic</a>
@@ -112,7 +114,9 @@ Similar Projects:
 
 ### Reach out people and offer helps<a id="sec-1-1-7" name="sec-1-1-7">[]</a>
 
-### Treat every audience as a respectful professional<a id="sec-1-1-8" name="sec-1-1-8">[]</a>
+### Real and deep conversations starts from private messages<a id="sec-1-1-8" name="sec-1-1-8">[]</a>
+
+### Treat every audience as a respectful professional<a id="sec-1-1-9" name="sec-1-1-9">[]</a>
 
 ## Routine tasks<a id="sec-1-2" name="sec-1-2">[]</a>
 
@@ -120,7 +124,14 @@ Similar Projects:
 
 ### Send out private messages to close friends regularly<a id="sec-1-2-2" name="sec-1-2-2">[]</a>
 
-### Send Invitations for people likes or comments your updates<a id="sec-1-2-3" name="sec-1-2-3">[]</a>
+### Find questions to answers<a id="sec-1-2-3" name="sec-1-2-3">[]</a>
+
+-   People may post updates with their problems (@ you or won’t @ you)
+-   People may comment your update with their problems
+-   search LinkedIn technical questions, send private messages, and build connections
+-   Start conversation broadly, then start private conversation for more deep insight and under hood feedback
+
+### Send Invitations for people likes or comments your updates<a id="sec-1-2-4" name="sec-1-2-4">[]</a>
 
 Not everyone in Linkedin are active  
 
