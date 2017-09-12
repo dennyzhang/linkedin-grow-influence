@@ -75,6 +75,12 @@
 -   Github Repo: <https://github.com/DennyZhang/linkedin-grow-influence>
 -   About this topic, for things you want to know: File me [tickets](<https://github.com/DennyZhang/linkedin-grow-influence>)
 
+Similar Projects:  
+
+-   Github: [Do a better technical selling as a developer](https://github.com/DennyZhang/developer-technical-selling)
+-   Github: [How To Improve Professional Influence In Linkedin](https://github.com/DennyZhang/linkedin-grow-influence)
+-   Github: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
+
 Ask the Right questions in a suitable question  
 
 -   Principle: No matter you post or comment, make sure it add values to your audience
