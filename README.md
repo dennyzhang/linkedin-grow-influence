@@ -24,6 +24,9 @@
 <li><a href="#sec-1-2-3">1.2.3. Send private messages, if you notice some inspiring comments</a></li>
 <li><a href="#sec-1-2-4">1.2.4. Send out private messages to close friends regularly</a></li>
 <li><a href="#sec-1-2-5">1.2.5. Find questions to answers</a></li>
+<li><a href="#sec-1-2-6">1.2.6. Send connection invitation for who likes/comments my Linkedin updates for this week</a></li>
+<li><a href="#sec-1-2-7">1.2.7. Add discussion summary, @people selectively</a></li>
+<li><a href="#sec-1-2-8">1.2.8. For discussion, @people for friends who might be interested</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-3">1.3. Lessons learned</a>
@@ -143,6 +146,12 @@ Not everyone in Linkedin are active
 -   People may comment your update with their problems
 -   search LinkedIn technical questions, send private messages, and build connections
 -   Start conversation broadly, then start private conversation for more deep insight and under hood feedback
+
+### Send connection invitation for who likes/comments my Linkedin updates for this week<a id="sec-1-2-6" name="sec-1-2-6">[]</a>
+
+### Add discussion summary, @people selectively<a id="sec-1-2-7" name="sec-1-2-7">[]</a>
+
+### For discussion, @people for friends who might be interested<a id="sec-1-2-8" name="sec-1-2-8">[]</a>
 
 ## Lessons learned<a id="sec-1-3" name="sec-1-3">[]</a>
 

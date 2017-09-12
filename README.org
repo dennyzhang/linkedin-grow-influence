@@ -37,6 +37,9 @@ Not everyone in Linkedin are active
 - People may comment your update with their problems
 - search LinkedIn technical questions, send private messages, and build connections
 - Start conversation broadly, then start private conversation for more deep insight and under hood feedback
+*** Send connection invitation for who likes/comments my Linkedin updates for this week
+*** Add discussion summary, @people selectively
+*** For discussion, @people for friends who might be interested
 ** Lessons learned
 *** You com here to learn, instead of teach or sell
 *** Avoid talking nonsense or common sense: waste times for both sides
