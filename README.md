@@ -90,6 +90,8 @@ Similar Projects:
 -   Github: [How To Improve Professional Influence In Linkedin](https://github.com/DennyZhang/linkedin-grow-influence)
 -   Github: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
 
+**Follow Denny**: in [LinkedIn](https://www.linkedin.com/in/dennyzhang001), [Github](https://github.com/DennyZhang) or [Blog](https://www.dennyzhang.com).  
+
 ---
 
 ## Principle<a id="sec-1-1" name="sec-1-1">[]</a>
