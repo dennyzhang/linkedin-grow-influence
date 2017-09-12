@@ -3,7 +3,8 @@
 #+AUTHOR: dennyzhang.com (contact@dennyzhang.com)
 #+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
 * Grow Influence In LinkedIn
-Github Repo: https://github.com/DennyZhang/linkedin-grow-influence
+- Github Repo: https://github.com/DennyZhang/linkedin-grow-influence
+- About this topic, for things you want to know: File me [tickets](https://github.com/DennyZhang/maintain-github-repos/issues)
 
 Ask the Right questions in a suitable question
 - Principle: No matter you post or comment, make sure it add values to your audience
