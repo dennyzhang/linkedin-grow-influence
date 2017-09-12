@@ -69,11 +69,10 @@
 </div>
 </div>
 
-
-# Grow Influence In LinkedIn<a id="sec-1" name="sec-1">[]</a>
-
 -   Github Repo: <https://github.com/DennyZhang/linkedin-grow-influence>
 -   About this topic, for things you want to know: File me [tickets](<https://github.com/DennyZhang/maintain-github-repos/issues>)
+
+# Grow Influence In LinkedIn<a id="sec-1" name="sec-1">[]</a>
 
 Ask the Right questions in a suitable question  
 
