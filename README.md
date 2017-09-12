@@ -81,6 +81,8 @@ Similar Projects:
 -   Github: [How To Improve Professional Influence In Linkedin](https://github.com/DennyZhang/linkedin-grow-influence)
 -   Github: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
 
+---
+
 Ask the Right questions in a suitable question  
 
 -   Principle: No matter you post or comment, make sure it add values to your audience
