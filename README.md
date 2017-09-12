@@ -81,6 +81,8 @@
 
 # Grow Influence In LinkedIn<a id="sec-1" name="sec-1">[]</a>
 
+**Follow Denny**: in [LinkedIn](https://www.linkedin.com/in/dennyzhang001), [Github](https://github.com/DennyZhang) or [Blog](https://www.dennyzhang.com).  
+
 -   Github Repo: <https://github.com/DennyZhang/linkedin-grow-influence>
 -   For missing points: File me [tickets](<https://github.com/DennyZhang/linkedin-grow-influence/issues>)
 
@@ -89,8 +91,6 @@ Similar Projects:
 -   Github: [Do a better technical selling as a developer](https://github.com/DennyZhang/developer-technical-selling)
 -   Github: [How To Improve Professional Influence In Linkedin](https://github.com/DennyZhang/linkedin-grow-influence)
 -   Github: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
-
-**Follow Denny**: in [LinkedIn](https://www.linkedin.com/in/dennyzhang001), [Github](https://github.com/DennyZhang) or [Blog](https://www.dennyzhang.com).  
 
 ---
 
