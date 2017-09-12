@@ -3,7 +3,9 @@
 #+AUTHOR: dennyzhang.com (contact@dennyzhang.com)
 #+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
 * Grow Influence In LinkedIn
-Github Link: https://github.com/DennyZhang/linkedin-grow-influence
+Github Repo: https://github.com/DennyZhang/linkedin-grow-influence
+
+Connect with me in ![Github](https://www.dennyzhang.com/wp-content/uploads/sns/denny_github.png) or ![Linkedin](https://www.dennyzhang.com/wp-content/uploads/sns/denny_linkedin.png).
 
 Ask the Right questions in a suitable question
 - Principle: No matter you post or comment, make sure it add values to your audience
@@ -21,6 +23,10 @@ For me:
 *** Send out private messages to close friends regularly
 *** Send Invitations for people likes or comments your updates
 Not everyone in Linkedin are active
+** Principle
+*** Grow everything in an oragnic way
+- People have been forced to endorse you
+*** Reach out people and offer helps
 ** Maintain A Topic
 *** Avoid getting people distracted from your original topic
 *** Add a recap after 3 days: summarize the discussions
@@ -206,6 +212,8 @@ Denny Zhang sent the following message at 2:39 PM
 Sanity, I would say: Getting involved in our DevOps Discussions in LinkedIn. Try to deliver your daily work as perfect as possible. Then you will do fine.
 #+END_EXAMPLE
 
+** Recommended Books
+- TODO
 ** LinkedIn Tips
 *** linkedin use emoji icons
 https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste-brynne-tillman
