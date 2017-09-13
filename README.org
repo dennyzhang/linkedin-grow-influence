@@ -3,6 +3,12 @@
 #+AUTHOR: dennyzhang.com (contact@dennyzhang.com)
 #+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
 * Grow Influence In LinkedIn
+#+BEGIN_HTML
+<a href="https://www.dennyzhang.com/python_selenium"><img src="https://www.dennyzhang.com/wp-content/uploads/denny/gui_python_selenium.png" alt="5 Tips For GUI Automation Test In Python" /></a>
+#+END_HTML
+
+[[https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png][https://www.linkedin.com/in/dennyzhang001]
+
 *Follow Denny*: in [[https://www.linkedin.com/in/dennyzhang001][LinkedIn]], [[https://github.com/DennyZhang][Github]] or [[https://www.dennyzhang.com][Blog]].
 
 - Github Repo: https://github.com/DennyZhang/linkedin-grow-influence

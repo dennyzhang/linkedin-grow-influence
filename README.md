@@ -95,6 +95,10 @@
 
 # Grow Influence In LinkedIn<a id="sec-1" name="sec-1">[]</a>
 
+<a href="https://www.dennyzhang.com/python_selenium"><img src="https://www.dennyzhang.com/wp-content/uploads/denny/gui_python_selenium.png" alt="5 Tips For GUI Automation Test In Python" /></a>
+
+[[<https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png][https://www.linkedin.com/in/dennyzhang001>]  
+
 **Follow Denny**: in [LinkedIn](https://www.linkedin.com/in/dennyzhang001), [Github](https://github.com/DennyZhang) or [Blog](https://www.dennyzhang.com).  
 
 -   Github Repo: <https://github.com/DennyZhang/linkedin-grow-influence>
