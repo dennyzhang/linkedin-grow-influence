@@ -281,3 +281,13 @@ https://www.linkedin.com/feed/update/urn:li:activity:6288957536393588736/
     CLOSED: [2017-09-05 Tue 10:30]
 *** DONE Ask people to take actions: add LinkedIn
     CLOSED: [2017-08-15 Tue 22:25]
+** doc template: new devops people onboard                         :noexport:
+#+BEGIN_EXAMPLE
+Hi Denny,  Thanks for the connection, I'm starting a new role in November as a Cloud Infrastructure Engineer (AWS, IaC, Jenkins) supporting multiple dev teams. I've read a few of your blog posts through mutual connections and I'm keen to absorb as much as I can from more experiences DevOps professionals.   Cheers, Jeff
+3:30 AM
+Denny Zhang sent the following message at 7:46 AM
+Jeff, congratulation on your new role.
+7:46 AM
+Denny Zhang sent the following message at 8:02 AM
+So, Jeff, you're not on board yet. If I were you, I would start contacting the my customers. The dev teams.  1. Talk with them, listen to them. Understand the problems and the painpoints. Make friends with them.  2. Know the major toolset in those projects. And be familiar with them. If it's not decided yet, then learn docker+Jenkins+monitoring tool(nagios?)+config mgmt tool(ansible)  3. If you want to reach out community, I'm pretty active in LinkedIn. Also there are some DevOps slack groups. devopschat, hangops. If you like, I also have one. (Search "slack" in my blog, you will see).  As a conclusion: people -> problems -> tools.
+#+END_EXAMPLE
