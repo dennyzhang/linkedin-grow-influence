@@ -95,14 +95,11 @@
 
 # Grow Influence In LinkedIn<a id="sec-1" name="sec-1">[]</a>
 
-<a href="https://www.dennyzhang.com/python_selenium"><img src="https://www.dennyzhang.com/wp-content/uploads/denny/gui_python_selenium.png" alt="5 Tips For GUI Automation Test In Python" /></a>
+<a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
+<a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
+<a href="https://www.dennyzhang.com/slack"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack" /></a>
 
-[[<https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png][https://www.linkedin.com/in/dennyzhang001>]  
-
-**Follow Denny**: in [LinkedIn](https://www.linkedin.com/in/dennyzhang001), [Github](https://github.com/DennyZhang) or [Blog](https://www.dennyzhang.com).  
-
--   Github Repo: <https://github.com/DennyZhang/linkedin-grow-influence>
--   For missing points: File me [tickets](<https://github.com/DennyZhang/linkedin-grow-influence/issues>)
+-   File me [tickets](<https://github.com/DennyZhang/linkedin-grow-influence/issues>) or star [this github repo](<https://github.com/DennyZhang/linkedin-grow-influence>)
 
 Similar Projects:  
 
