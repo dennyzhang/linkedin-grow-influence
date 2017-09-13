@@ -99,7 +99,7 @@
 <a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
 <a href="https://www.dennyzhang.com/slack"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack" /></a>
 
--   File me [tickets](<https://github.com/DennyZhang/linkedin-grow-influence/issues>) or star [this github repo](<https://github.com/DennyZhang/linkedin-grow-influence>)
+-   File me [tickets](<https://github.com/DennyZhang/linkedin-grow-influence/issues>) or star [the repo](<https://github.com/DennyZhang/linkedin-grow-influence>)
 
 Similar Projects:  
 
