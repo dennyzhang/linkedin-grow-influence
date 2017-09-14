@@ -15,6 +15,7 @@ Similar Projects:
 - Github: [[https://github.com/DennyZhang/developer-technical-selling][Do a better technical selling as a developer]]
 - Github: [[https://github.com/DennyZhang/linkedin-grow-influence][How To Improve Professional Influence In Linkedin]]
 - Github: [[https://github.com/DennyZhang/maintain-github-repos][Maintain Github Projects For Bigger Influence]]
+- Github: [[https://github.com/DennyZhang/maintain-slack-group][How To Maintain An Active Slack Group For Mutual Benefits]]
 
 --------------------------------------------------------
 
