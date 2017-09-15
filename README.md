@@ -8,7 +8,7 @@
 <ul>
 <li><a href="#sec-1-1-1">1.1.1. Grow everything in an oragnic way</a></li>
 <li><a href="#sec-1-1-2">1.1.2. Talk just like face-to-face</a></li>
-<li><a href="#sec-1-1-3">1.1.3. short sentence win</a></li>
+<li><a href="#sec-1-1-3">1.1.3. Short sentence win</a></li>
 <li><a href="#sec-1-1-4">1.1.4. No matter you post or comment, make sure it add values to your audience</a></li>
 <li><a href="#sec-1-1-5">1.1.5. Fake won't work. You have to be real and serious.</a></li>
 <li><a href="#sec-1-1-6">1.1.6. Boostbluffing &lt; Talk &lt; Listen &lt; Learn</a></li>
@@ -20,13 +20,14 @@
 <li><a href="#sec-1-2">1.2. Routine tasks</a>
 <ul>
 <li><a href="#sec-1-2-1">1.2.1. Add comments, instead of likes: It helps to promote yourself</a></li>
-<li><a href="#sec-1-2-2">1.2.2. Send Invitations for people likes or comments your updates</a></li>
-<li><a href="#sec-1-2-3">1.2.3. Send private messages, if you notice some inspiring comments</a></li>
-<li><a href="#sec-1-2-4">1.2.4. Send out private messages to close friends regularly</a></li>
-<li><a href="#sec-1-2-5">1.2.5. Find questions to answers</a></li>
-<li><a href="#sec-1-2-6">1.2.6. Send connection invitation for who likes/comments my Linkedin updates for this week</a></li>
-<li><a href="#sec-1-2-7">1.2.7. Add discussion summary, @people selectively</a></li>
-<li><a href="#sec-1-2-8">1.2.8. For discussion, @people for friends who might be interested</a></li>
+<li><a href="#sec-1-2-2">1.2.2. Every moning take 5 minutes: Check Selective Friends LinkedIn Updates</a></li>
+<li><a href="#sec-1-2-3">1.2.3. Send Invitations for people likes or comments your updates</a></li>
+<li><a href="#sec-1-2-4">1.2.4. Send private messages, if you notice some inspiring comments</a></li>
+<li><a href="#sec-1-2-5">1.2.5. Send out private messages to close friends regularly</a></li>
+<li><a href="#sec-1-2-6">1.2.6. Find questions to answers</a></li>
+<li><a href="#sec-1-2-7">1.2.7. Send connection invitation for who likes/comments my Linkedin updates for this week</a></li>
+<li><a href="#sec-1-2-8">1.2.8. Add discussion summary, @people selectively</a></li>
+<li><a href="#sec-1-2-9">1.2.9. For discussion, @people for friends who might be interested</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-3">1.3. Lessons learned</a>
@@ -118,7 +119,7 @@ Similar Projects:
 
 ### Talk just like face-to-face<a id="sec-1-1-2" name="sec-1-1-2"></a>
 
-### short sentence win<a id="sec-1-1-3" name="sec-1-1-3"></a>
+### Short sentence win<a id="sec-1-1-3" name="sec-1-1-3"></a>
 
 ### No matter you post or comment, make sure it add values to your audience<a id="sec-1-1-4" name="sec-1-1-4"></a>
 
@@ -136,26 +137,28 @@ Similar Projects:
 
 ### Add comments, instead of likes: It helps to promote yourself<a id="sec-1-2-1" name="sec-1-2-1"></a>
 
-### Send Invitations for people likes or comments your updates<a id="sec-1-2-2" name="sec-1-2-2"></a>
+### Every moning take 5 minutes: Check Selective Friends LinkedIn Updates<a id="sec-1-2-2" name="sec-1-2-2"></a>
+
+### Send Invitations for people likes or comments your updates<a id="sec-1-2-3" name="sec-1-2-3"></a>
 
 Not everyone in Linkedin are active  
 
-### Send private messages, if you notice some inspiring comments<a id="sec-1-2-3" name="sec-1-2-3"></a>
+### Send private messages, if you notice some inspiring comments<a id="sec-1-2-4" name="sec-1-2-4"></a>
 
-### Send out private messages to close friends regularly<a id="sec-1-2-4" name="sec-1-2-4"></a>
+### Send out private messages to close friends regularly<a id="sec-1-2-5" name="sec-1-2-5"></a>
 
-### Find questions to answers<a id="sec-1-2-5" name="sec-1-2-5"></a>
+### Find questions to answers<a id="sec-1-2-6" name="sec-1-2-6"></a>
 
 -   People may post updates with their problems (@ you or won’t @ you)
 -   People may comment your update with their problems
 -   search LinkedIn technical questions, send private messages, and build connections
 -   Start conversation broadly, then start private conversation for more deep insight and under hood feedback
 
-### Send connection invitation for who likes/comments my Linkedin updates for this week<a id="sec-1-2-6" name="sec-1-2-6"></a>
+### Send connection invitation for who likes/comments my Linkedin updates for this week<a id="sec-1-2-7" name="sec-1-2-7"></a>
 
-### Add discussion summary, @people selectively<a id="sec-1-2-7" name="sec-1-2-7"></a>
+### Add discussion summary, @people selectively<a id="sec-1-2-8" name="sec-1-2-8"></a>
 
-### For discussion, @people for friends who might be interested<a id="sec-1-2-8" name="sec-1-2-8"></a>
+### For discussion, @people for friends who might be interested<a id="sec-1-2-9" name="sec-1-2-9"></a>
 
 ## Lessons learned<a id="sec-1-3" name="sec-1-3"></a>
 

@@ -23,7 +23,7 @@ Similar Projects:
 *** Grow everything in an oragnic way
 - People have been forced to endorse you
 *** Talk just like face-to-face
-*** short sentence win
+*** Short sentence win
 *** No matter you post or comment, make sure it add values to your audience
 *** Fake won't work. You have to be real and serious.
 *** Boostbluffing < Talk < Listen < Learn
@@ -32,7 +32,7 @@ Similar Projects:
 *** Treat every audience as a respectful professional
 ** Routine tasks
 *** Add comments, instead of likes: It helps to promote yourself
-*** Spend 5 minutes: Poll LinkedIn Updates For Selective Friends
+*** Every moning take 5 minutes: Check Selective Friends LinkedIn Updates
 *** Send Invitations for people likes or comments your updates
 Not everyone in Linkedin are active
 *** Send private messages, if you notice some inspiring comments
@@ -245,14 +245,24 @@ https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste
 https://www.linkedin.com/pulse/how-add-emojis-your-linkedin-profile-posts-john-nemo
 ** Influencers In LinkedIn                                         :noexport:
 ** Friends LinkedIn                                                :noexport:
-*** Guilherme Virtuoso: https://www.linkedin.com/in/gvirtuoso/detail/recent-activity/shares/
-*** Pradipta Dash: https://www.linkedin.com/in/pradipta-dash-a4091127/detail/recent-activity/shares/
-*** Carlos Osuna: https://www.linkedin.com/in/cosuna/detail/recent-activity/shares/
-*** Jonathan McAllister: https://www.linkedin.com/in/jonathan-mcallister-3789205/detail/recent-activity/shares/
-*** Fu Y: https://www.linkedin.com/in/fuyong/detail/recent-activity/shares/
-*** #  --8<-------------------------- separator ------------------------>8--
-*** Neelesh Gurjar: https://www.linkedin.com/in/neeleshgurjar/detail/recent-activity/shares/
-*** Saurabh Tamhankar: https://www.linkedin.com/in/saurabh14292/detail/recent-activity/shares/
+*** Morning Check
+**** Sean Turner: https://www.linkedin.com/in/sean-turner-5b393018/detail/recent-activity/shares/
+**** Fabio Martins: https://www.linkedin.com/in/fabiogoma/detail/recent-activity/shares/
+**** Neelesh Gurjar: https://www.linkedin.com/in/neeleshgurjar/detail/recent-activity/shares/
+**** #  --8<-------------------------- separator ------------------------>8--
+**** Guilherme Virtuoso: https://www.linkedin.com/in/gvirtuoso/detail/recent-activity/shares/
+**** Pradipta Dash: https://www.linkedin.com/in/pradipta-dash-a4091127/detail/recent-activity/shares/
+**** Fu Y: https://www.linkedin.com/in/fuyong/detail/recent-activity/shares/
+**** David Barhydt: https://www.linkedin.com/in/davidsbarhydt/detail/recent-activity/shares/
+**** Carlos Osuna: https://www.linkedin.com/in/cosuna/detail/recent-activity/shares/
+*** Weekly Check
+**** Abubakar Mohammed: https://www.linkedin.com/in/mohammedabubakar/detail/recent-activity/shares/
+**** Arron Atchison: https://www.linkedin.com/in/arron-atchison-0884723a/detail/recent-activity/shares/
+**** Saurabh Tamhankar: https://www.linkedin.com/in/saurabh14292/detail/recent-activity/shares/
+**** Jonathan McAllister: https://www.linkedin.com/in/jonathan-mcallister-3789205/detail/recent-activity/shares/
+**** Andrew Matusko: https://www.linkedin.com/in/andrewjmatusko/detail/recent-activity/shares/
+**** Kenneth Goodwin: https://www.linkedin.com/in/kenneth-goodwin-19416910/detail/recent-activity/shares/
+**** Koldo Oteo Orellana: https://www.linkedin.com/in/koteo/detail/recent-activity/shares/
 ** #  --8<-------------------------- separator ------------------------>8-- :noexport:
 ** TODO [#A] Help others to solve questions they have posted: ask recommendations, if it's a good timing
 ** TODO Add Summary at the end of the discussion: for yourself and for the community
