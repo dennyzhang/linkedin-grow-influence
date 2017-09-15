@@ -44,6 +44,7 @@ Not everyone in Linkedin are active
 - Start conversation broadly, then start private conversation for more deep insight and under hood feedback
 *** Send connection invitation for who likes/comments my Linkedin updates for this week
 *** Add discussion summary, @people selectively
+Sample: 
 *** For discussion, @people for friends who might be interested
 ** Lessons learned
 *** You com here to learn, instead of teach or sell
