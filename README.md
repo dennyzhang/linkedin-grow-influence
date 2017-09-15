@@ -101,13 +101,7 @@
 <a href="https://www.dennyzhang.com/slack"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack" /></a>
 
 -   File me [tickets](<https://github.com/DennyZhang/linkedin-grow-influence/issues>) or star [this github repo](<https://github.com/DennyZhang/linkedin-grow-influence>)
-
-Similar Projects:  
-
--   Github: [Do a better technical selling as a developer](https://github.com/DennyZhang/developer-technical-selling)
--   Github: [How To Improve Professional Influence In Linkedin](https://github.com/DennyZhang/linkedin-grow-influence)
--   Github: [Maintain Github Projects For Bigger Influence](https://github.com/DennyZhang/maintain-github-repos)
--   Github: [How To Maintain An Active Slack Group For Mutual Benefits](https://github.com/DennyZhang/maintain-slack-group)
+-   [Denny knowledge-base in Github](https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories)
 
 ---
 
@@ -157,6 +151,8 @@ Not everyone in Linkedin are active
 ### Send connection invitation for who likes/comments my Linkedin updates for this week<a id="sec-1-2-7" name="sec-1-2-7"></a>
 
 ### Add discussion summary, @people selectively<a id="sec-1-2-8" name="sec-1-2-8"></a>
+
+Sample:  
 
 ### For discussion, @people for friends who might be interested<a id="sec-1-2-9" name="sec-1-2-9"></a>
 
