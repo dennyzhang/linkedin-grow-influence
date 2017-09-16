@@ -13,7 +13,6 @@
 - [[https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories][Denny knowledge-base in Github]]
 
 --------------------------------------------------------
-
 ** Principle
 *** Grow everything in an oragnic way
 - People have been forced to endorse you
@@ -26,11 +25,11 @@
 *** Real and deep conversations starts from private messages
 *** Treat every audience as a respectful professional
 ** Routine tasks
+*** [#A] Send private messages, if you notice some inspiring comments
 *** Add comments, instead of likes: It helps to promote yourself
 *** Every moning take 5 minutes: Check Selective Friends LinkedIn Updates
 *** Send Invitations for people likes or comments your updates
 Not everyone in Linkedin are active
-*** Send private messages, if you notice some inspiring comments
 *** Send out private messages to close friends regularly
 *** Find questions to answers
 - People may post updates with their problems (@ you or won’t @ you)
@@ -46,6 +45,12 @@ Sample:
 *** Only selectively topics are discussed on the internet
 *** Always remember: Lots of experienced professionals are inactive in social media
 *** Avoid talking nonsense or common sense: waste times for both sides
+** Puzzle
+*** How to properly backup LinkedIn chat history?
+Route your active friends/fans into your slack group.
+*** TODO Identity who is connected with me but don't follow me
+*** TODO How to identity connections who has little common interest with me
+*** TODO How to identity connections who has less than 100 connections
 ** Maintain A Topic
 *** Avoid getting people distracted from your original topic
 *** Ask the Right questions in a suitable question
@@ -235,6 +240,176 @@ Sanity, I would say: Getting involved in our DevOps Discussions in LinkedIn. Try
 
 ** Recommended Books
 - TODO
+** Web page
+- [[https://www.forbes.com/sites/williamarruda/2014/03/04/22-linkedin-secrets-linkedin-wont-tell-you/][22 LinkedIn Secrets LinkedIn Won't Tell You]]
+*** web page: 22 LinkedIn Secrets LinkedIn Won't Tell You          :noexport:
+https://www.forbes.com/sites/williamarruda/2014/03/04/22-linkedin-secrets-linkedin-wont-tell-you/
+**** webcontent                                                    :noexport:
+#+begin_example
+Location: https://www.forbes.com/sites/williamarruda/2014/03/04/22-linkedin-secrets-linkedin-wont-tell-you/                    
+Log In
+
+  * 
+  * 
+  * 
+  * 
+  * share
+
+Trending
+Leadership
+Leadership Mar 4, 2014 @ 08:18 AM 
+
+22 LinkedIn Secrets LinkedIn Won't Tell You
+
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+
+[70e69c46e9]
+William Arruda , Contributor
+I write about personal branding. Opinions expressed by Forbes Contributors are their own.
+
+I have written several articles about LinkedIn, and they often generate the most comments. Here are
+the highlights of my LinkedIn advice from previous articles, along with additional tips and tricks,
+many of which remain unspoken by the people at LinkedIn. With this checklist in hand, you can make
+your LinkedIn profile your best personal branding tool. These little-known, often-overlooked and
+seemingly counterintuitive tips deliver big results with minimal effort.
+
+1. Be secretive. When you’re updating your LinkedIn profile, it can annoy your contacts if they’re
+alerted to every little change. When you’re in edit mode, head to your privacy controls. Turn off
+activity broadcasts and change the setting for  “select who can see your activity feed” to “only
+you.”
+
+2. Be opportunistic. Join groups that will let you connect with people who are in your target
+audience but are not contacts. Being part of the group gives you permission to reach out to them
+and invite them to join your network. You don’t need to upgrade to Premium to do so.
+
+3. Be redundant. Know the top five strengths for which you want to be recognized and use them in
+your profile – repeatedly. If your top skill is project management, describe your project
+management proficiency in your summary as well as in multiple experience descriptions. This will
+help the right audience find you.
+
+4. Be ungrateful. Ask your contacts to endorse you for only your top skills. Having the highest
+number of endorsements for your signature strengths will influence those who are looking at your
+profile. Have the courage to delete or reject the endorsements that aren’t central to how you want
+to be known.
+
+5. Be stingy. Only give recommendations and endorsements to those whom you genuinely admire. When
+you recommend other people, their reputation is seen an extension of your values.
+
+6. Be lazy. Reuse and repurpose the content you already have available. This amplifies your message
+and delivers brand consistency. Communicating different forms of the same content in distinctive
+ways helps reinforce your messages within your brand community. Convert your Blog posts into
+activity updates and embed whitepapers and articles in your profile.
+
+The Forbes eBook: Find And Keep Your Dream Job
+The Definitive Careers Guide From Forbes encompasses every aspect of the job hunt, from interview
+to promotion. Written by some of Forbes' best careers and leadership writers, it is available now
+for download.
+
+7. Be greedy. Don’t follow the LinkedIn formula of creating one experience entry for each job title
+you have held. Take the space you need to communicate your accomplishments by creating multiple
+entries for every role you have performed within each job title. It’s OK to have overlapping dates.
+See how I did it in my profile.
+
+8. Be a groupie. Don’t limit the number of groups you join. Join groups related to your area of
+expertise, industry, alumni, passions, social causes, and other aspects of your identity. This
+gives you access to more people who matter to your brand. Plus, when others look at your profile,
+they can learn about your brand by looking at your groups. Always select groups that are highly
+active and have a lot of members.
+
+9. Be promiscuous. Ignore LinkedIn’s advice to only accept connection requests from people you
+know. That helps sell Premium, but it doesn’t help you get found. LinkedIn’s search algorithm
+favors those who are in your network. That means when people are looking for what you have to
+offer, the results of their searches are displayed with 1^st level connections first, then 2^nd
+level connections and so on.
+
+10. Be a chameleon. Don’t assume others know how you spell your name or know that you’ve changed
+your name. Include all known misspellings, previous names, nicknames and aliases in your summary. I
+include this: AKA/Common misspellings: Bill Arruda, Will Arruda, William Aruda, Will Aruda.
+
+11. Be invisible. Fly under the radar when you’re using LinkedIn to check out your employees or
+poach talent. To keep your agenda hidden, change your viewing setting to “anonymous” in “Select
+what others see when you've viewed their profile.”
+
+12. Be verbose. Know the character limit for each section and use every character. This gives you
+the opportunity to repeat keywords that are critical to being found. You can find the character
+limits here.
+
+13. Be opinionated. Integrate your point of view (POV) into your summary and experience where
+appropriate. Join groups where you can share your POV as it relates to your area of expertise. It’s
+a great way to distinguish yourself from competitors.
+
+14. Be disorganized. Reorder the content in your profile (yes, LinkedIn made this possible). This
+enables you to lead with what’s important and choose which strengths to focus on. Bonus: it will
+make your profile stand out from the crowd of others who do what you do.
+
+15. Be selective. Don’t feel you need to include every detail of every job you have had –
+especially if the details dilute your brand message. You can omit the jobs you had early in your
+career if they don’t offer insights into how you deliver value today. Or group those older listings
+under one heading, such as “Apprenticeships” or “My Training Ground.”
+
+16. Be square. Direct people to your LinkedIn profile with a QR code on your business card. The
+next time you’re at a networking function, the people you meet can scan your QR code and instantly
+read your profile and connect with you.
+
+17. Be frugal. If you want to reach out to someone and you can’t reach them any other way, sign up
+for Premium by the month. Then, do all the outreach you need to do to connect with those
+super-exclusive contacts. Mission accomplished? Cancel your Premium subscription.
+
+18. Be a thief. Repurpose the great content in your LinkedIn profile for other social media sites.
+You’ll increase your digital footprint while ensuring consistency. VisualizeMe.com, Vizify.com,
+Re.vu, and ResumUp.com are a few services to check out.
+
+19. Be personal.  Your profile is not a resume or CV. Write as if you are having a conversation
+with someone. Inject your personality. Let people know your values and passions. In your summary,
+discuss what you do outside of work. You want people to want to know you.
+
+20. Be in their face. Make sure your headshot is high quality, with good lighting and ultra-sharp
+focus. LinkedIn is not the place to run a casual snapshot. Also, make sure that you’re either
+facing forward or turned toward your left shoulder, in the direction of your content. If you’re
+looking to your right, gazing off the screen, this sends a subtle message that you don’t believe
+the content of your own page.
+
+21. Be a bean counter. Get at least 500 connections. In addition to widening your target audience,
+the magic 500+ in your profile has a psychological impact on those who view your profile.
+
+22. Be a procrastinator. Don’t reach out to contacts until you are thrilled with your profile. When
+you reach out the others, they will likely view your profile before deciding if they want to
+connect with you.
+
+Follow me on Twitter and check out my latest book, Ditch. Dare. Do! 3D Personal Branding for
+Executives.
+
+You might also like…
+
+The LinkedIn Settings Mistakes Most People Still Make
+
+Five LinkedIn Strategies You Haven’t Thought Of Before
+
+How LinkedIn Has Turned Your Resume Into A Cash Machine
+
+Watch on Forbes:
+
+9Comment on this story
+
+  * 
+  * 
+  * 
+  * 
+  * 
+  * 
+
+  * Print
+  * Website Feedback
+  * News Tip
+  * Report Corrections
+  * Reprints & Permissions
+
+#+end_example
 ** LinkedIn Tips
 *** linkedin use emoji icons
 https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste-brynne-tillman
