@@ -10,70 +10,39 @@
 <li><a href="#sec-1-2-1">1.2.1. New connections</a></li>
 <li><a href="#sec-1-2-2">1.2.2. Content Management</a></li>
 <li><a href="#sec-1-2-3">1.2.3. Old Connections</a></li>
-<li><a href="#sec-1-2-4">1.2.4. Find questions to answers</a></li>
+<li><a href="#sec-1-2-4">1.2.4. Start a topic</a></li>
+<li><a href="#sec-1-2-5">1.2.5. Maintain a topic</a></li>
+<li><a href="#sec-1-2-6">1.2.6. Monetize The Effort</a></li>
+<li><a href="#sec-1-2-7">1.2.7. Find questions to offer help</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-3">1.3. Lessons learned</a>
-<ul>
-<li><a href="#sec-1-3-1">1.3.1. You com here to learn, instead of teach or sell</a></li>
-<li><a href="#sec-1-3-2">1.3.2. Only selectively topics are discussed on the internet</a></li>
-<li><a href="#sec-1-3-3">1.3.3. Always remember: Lots of experienced professionals are inactive in social media</a></li>
-<li><a href="#sec-1-3-4">1.3.4. Avoid talking nonsense or common sense: waste times for both sides</a></li>
-</ul>
-</li>
-<li><a href="#sec-1-4">1.4. Puzzle</a>
+<li><a href="#sec-1-3">1.3. Lessons learned</a></li>
+<li><a href="#sec-1-4">1.4. Open Questions</a>
 <ul>
 <li><a href="#sec-1-4-1">1.4.1. How to properly backup LinkedIn chat history?</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-5">1.5. Maintain A Topic</a>
+<li><a href="#sec-1-5">1.5. LinkedIn Doc Templates</a>
 <ul>
-<li><a href="#sec-1-5-1">1.5.1. Avoid getting people distracted from your original topic</a></li>
-<li><a href="#sec-1-5-2">1.5.2. Ask the Right questions in a suitable question</a></li>
-<li><a href="#sec-1-5-3">1.5.3. Add a recap after 3 days: summarize the discussions</a></li>
+<li><a href="#sec-1-5-1">1.5.1. Doc template: Send gratitude for who give me valuable feedback for Linkedin discussions</a></li>
+<li><a href="#sec-1-5-2">1.5.2. Doc template: People thanks me for endorsing</a></li>
+<li><a href="#sec-1-5-3">1.5.3. Doc template: Reject reply a specific question in LinkedIn</a></li>
+<li><a href="#sec-1-5-4">1.5.4. Doc template: People ask career advice</a></li>
+<li><a href="#sec-1-5-5">1.5.5. Doc template: Why you connect with me from new connections</a></li>
+<li><a href="#sec-1-5-6">1.5.6. Doc template: reject audience who is not your target</a></li>
+<li><a href="#sec-1-5-7">1.5.7. Doc template: career guide for DevOps newbie</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-6">1.6. Benefits</a>
+<li><a href="#sec-1-6">1.6. LinkedIn Tips</a>
 <ul>
-<li><a href="#sec-1-6-1">1.6.1. Get feedbacks for technical details</a></li>
-<li><a href="#sec-1-6-2">1.6.2. Get <b>the direction or trends</b> for the tech community</a></li>
+<li><a href="#sec-1-6-1">1.6.1. linkedin use emoji icons</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-7">1.7. Start a topic</a>
+<li><a href="#sec-1-7">1.7. Recommended Resources</a>
 <ul>
-<li><a href="#sec-1-7-1">1.7.1. Start with a real story from yourself: it's ok to make fun of yourself, as long as it's real</a></li>
-<li><a href="#sec-1-7-2">1.7.2. Start with an easy and open question: either useful or funny</a></li>
-<li><a href="#sec-1-7-3">1.7.3. Explain your question in a simple and easy-to-understand way: People are careless and biasd</a></li>
-<li><a href="#sec-1-7-4">1.7.4. As long as people want to say something, and easy to chimp in mind</a></li>
-</ul>
-</li>
-<li><a href="#sec-1-8">1.8. How To reply</a>
-<ul>
-<li><a href="#sec-1-8-1">1.8.1. Speak out people's name, and speak with due respect!</a></li>
-</ul>
-</li>
-<li><a href="#sec-1-9">1.9. Build Connections From Discussions</a>
-<ul>
-<li><a href="#sec-1-9-1">1.9.1. Add connections and endorsement from Linkedin Discussions</a></li>
-</ul>
-</li>
-<li><a href="#sec-1-10">1.10. LinkedIn Role Models</a></li>
-<li><a href="#sec-1-11">1.11. LinkedIn Doc Templates</a>
-<ul>
-<li><a href="#sec-1-11-1">1.11.1. Doc template: Send gratitude for who give me valuable feedback for Linkedin discussions</a></li>
-<li><a href="#sec-1-11-2">1.11.2. Doc template: People thanks me for endorsing</a></li>
-<li><a href="#sec-1-11-3">1.11.3. Doc template: Reject reply a specific question in LinkedIn</a></li>
-<li><a href="#sec-1-11-4">1.11.4. Doc template: People ask career advice</a></li>
-<li><a href="#sec-1-11-5">1.11.5. Doc template: Why you connect with me from new connections</a></li>
-<li><a href="#sec-1-11-6">1.11.6. Doc template: reject audience who is not your target</a></li>
-<li><a href="#sec-1-11-7">1.11.7. Doc template: career guide for DevOps newbie</a></li>
-</ul>
-</li>
-<li><a href="#sec-1-12">1.12. Recommended Books</a></li>
-<li><a href="#sec-1-13">1.13. Web page</a></li>
-<li><a href="#sec-1-14">1.14. LinkedIn Tips</a>
-<ul>
-<li><a href="#sec-1-14-1">1.14.1. linkedin use emoji icons</a></li>
+<li><a href="#sec-1-7-1">1.7.1. Books</a></li>
+<li><a href="#sec-1-7-2">1.7.2. Role Models</a></li>
+<li><a href="#sec-1-7-3">1.7.3. Web pages</a></li>
 </ul>
 </li>
 </ul>
@@ -98,9 +67,6 @@
 ## Principle<a id="sec-1-1" name="sec-1-1"></a>
 
 -   Grow everything in an oragnic way.
-
-People have been forced to endorse you  
-
 -   Talk just like face-to-face
 -   Short sentence win
 -   No matter you post or comment, make sure it add values to your audience
@@ -128,7 +94,26 @@ People have been forced to endorse you
 -   Every moning take 5 minutes: Check Selective Friends LinkedIn Updates
 -   For discussion, @people for friends who might be interested
 
-### Find questions to answers<a id="sec-1-2-4" name="sec-1-2-4"></a>
+### Start a topic<a id="sec-1-2-4" name="sec-1-2-4"></a>
+
+-   Start with a real story from yourself: it's ok to make fun of yourself, as long as it's real
+-   Start with an easy and open question: either useful or funny
+-   Explain your question in a simple and easy-to-understand way: People are careless and biasd
+-   As long as people want to say something, and easy to chimp in mind
+
+### Maintain a topic<a id="sec-1-2-5" name="sec-1-2-5"></a>
+
+-   Avoid getting people distracted from your original topic
+-   Ask the Right questions in a suitable question
+-   Add a recap after 3 days: summarize the discussions
+-   Speak out people's name, and speak with due respect!
+
+### Monetize The Effort<a id="sec-1-2-6" name="sec-1-2-6"></a>
+
+-   Get feedbacks for technical details
+-   Get **the direction or trends** for the tech community
+
+### Find questions to offer help<a id="sec-1-2-7" name="sec-1-2-7"></a>
 
 -   People may post updates with their problems (@ you or won’t @ you)
 -   People may comment your update with their problems
@@ -137,71 +122,32 @@ People have been forced to endorse you
 
 ## Lessons learned<a id="sec-1-3" name="sec-1-3"></a>
 
-### You com here to learn, instead of teach or sell<a id="sec-1-3-1" name="sec-1-3-1"></a>
+-   You com here to learn, instead of teach or sell
+-   Only selectively topics are discussed on the internet
+-   Always remember: Lots of experienced professionals are inactive in social media
+-   Avoid talking nonsense or common sense: waste times for both sides
 
-### Only selectively topics are discussed on the internet<a id="sec-1-3-2" name="sec-1-3-2"></a>
-
-### Always remember: Lots of experienced professionals are inactive in social media<a id="sec-1-3-3" name="sec-1-3-3"></a>
-
-### Avoid talking nonsense or common sense: waste times for both sides<a id="sec-1-3-4" name="sec-1-3-4"></a>
-
-## Puzzle<a id="sec-1-4" name="sec-1-4"></a>
+## Open Questions<a id="sec-1-4" name="sec-1-4"></a>
 
 ### How to properly backup LinkedIn chat history?<a id="sec-1-4-1" name="sec-1-4-1"></a>
 
 Route your active friends/fans into your slack group.  
 
-## Maintain A Topic<a id="sec-1-5" name="sec-1-5"></a>
+## LinkedIn Doc Templates<a id="sec-1-5" name="sec-1-5"></a>
 
-### Avoid getting people distracted from your original topic<a id="sec-1-5-1" name="sec-1-5-1"></a>
-
-### Ask the Right questions in a suitable question<a id="sec-1-5-2" name="sec-1-5-2"></a>
-
-### Add a recap after 3 days: summarize the discussions<a id="sec-1-5-3" name="sec-1-5-3"></a>
-
-## Benefits<a id="sec-1-6" name="sec-1-6"></a>
-
-### Get feedbacks for technical details<a id="sec-1-6-1" name="sec-1-6-1"></a>
-
-### Get **the direction or trends** for the tech community<a id="sec-1-6-2" name="sec-1-6-2"></a>
-
-## Start a topic<a id="sec-1-7" name="sec-1-7"></a>
-
-### Start with a real story from yourself: it's ok to make fun of yourself, as long as it's real<a id="sec-1-7-1" name="sec-1-7-1"></a>
-
-### Start with an easy and open question: either useful or funny<a id="sec-1-7-2" name="sec-1-7-2"></a>
-
-### Explain your question in a simple and easy-to-understand way: People are careless and biasd<a id="sec-1-7-3" name="sec-1-7-3"></a>
-
-### As long as people want to say something, and easy to chimp in mind<a id="sec-1-7-4" name="sec-1-7-4"></a>
-
-## How To reply<a id="sec-1-8" name="sec-1-8"></a>
-
-### Speak out people's name, and speak with due respect!<a id="sec-1-8-1" name="sec-1-8-1"></a>
-
-## Build Connections From Discussions<a id="sec-1-9" name="sec-1-9"></a>
-
-### Add connections and endorsement from Linkedin Discussions<a id="sec-1-9-1" name="sec-1-9-1"></a>
-
-## LinkedIn Role Models<a id="sec-1-10" name="sec-1-10"></a>
-
--   Be connected with Active publisher in Linkedin Groups
-
-## LinkedIn Doc Templates<a id="sec-1-11" name="sec-1-11"></a>
-
-### Doc template: Send gratitude for who give me valuable feedback for Linkedin discussions<a id="sec-1-11-1" name="sec-1-11-1"></a>
+### Doc template: Send gratitude for who give me valuable feedback for Linkedin discussions<a id="sec-1-5-1" name="sec-1-5-1"></a>
 
     Denny Zhang sent the following message at 5:36 PM
     Paul, nice talking with you in LinkedIn.  Looking forward to more DevOps discussions with you in the coming weeks!
 
-### Doc template: People thanks me for endorsing<a id="sec-1-11-2" name="sec-1-11-2"></a>
+### Doc template: People thanks me for endorsing<a id="sec-1-5-2" name="sec-1-5-2"></a>
 
     Thanks for endorsing me for Cloud Computing!
     9:29 PM
     Denny Zhang sent the following message at 9:32 PM
     Sure thing, Praveen. Nice to have the DevOps discussion with you in LInkedIn.  Looking forward to more in the coming weeks! I do see lots of things in common with you, Praveen.
 
-### Doc template: Reject reply a specific question in LinkedIn<a id="sec-1-11-3" name="sec-1-11-3"></a>
+### Doc template: Reject reply a specific question in LinkedIn<a id="sec-1-5-3" name="sec-1-5-3"></a>
 
     XXX
     
@@ -214,7 +160,7 @@ Route your active friends/fans into your slack group.
     
     After all, any skilled IT professional would already be very busy with his/her daily work. Right, my friend?
 
-### Doc template: People ask career advice<a id="sec-1-11-4" name="sec-1-11-4"></a>
+### Doc template: People ask career advice<a id="sec-1-5-4" name="sec-1-5-4"></a>
 
     Hey, nice reading your profile. I am currently a full stack python developer, and i have now experience with shell script and linux and i am comfortable with both of these. I am writing to you as i am very uncertain as to what to choose for my career. I ahve done courses on puppet, ansible, docker and AWS solutions architect and i use them in my personal projects. I also have experience with machine learning and have been doing projects on the same. I wanted to seek your help on how should i direct my career towards. I desperately need your inputs. Thanks :)
     8:49 AM
@@ -243,7 +189,7 @@ Route your active friends/fans into your slack group.
     9:07 AM
     Read
 
-### Doc template: Why you connect with me from new connections<a id="sec-1-11-5" name="sec-1-11-5"></a>
+### Doc template: Why you connect with me from new connections<a id="sec-1-5-5" name="sec-1-5-5"></a>
 
     Elsa Hill
     Hi Denny, trying to remember how we know each other ... maybe you can remind me?
@@ -257,7 +203,7 @@ Route your active friends/fans into your slack group.
     
     So I reach out to be connected with you, XXX.
 
-### Doc template: reject audience who is not your target<a id="sec-1-11-6" name="sec-1-11-6"></a>
+### Doc template: reject audience who is not your target<a id="sec-1-5-6" name="sec-1-5-6"></a>
 
     JJ
     
@@ -273,7 +219,7 @@ Route your active friends/fans into your slack group.
     
     Sir do you have any tutorial with this docker compose you are talking about.,? Can you please help me with your step by step procedure.. im am so willing to learn and even it so hard i will try my best to learn somehow..
 
-### Doc template: career guide for DevOps newbie<a id="sec-1-11-7" name="sec-1-11-7"></a>
+### Doc template: career guide for DevOps newbie<a id="sec-1-5-7" name="sec-1-5-7"></a>
 
     XXX, maybe you can check this LinkedIn discussion? 
     
@@ -301,17 +247,22 @@ Route your active friends/fans into your slack group.
     Denny Zhang sent the following message at 2:39 PM
     Sanity, I would say: Getting involved in our DevOps Discussions in LinkedIn. Try to deliver your daily work as perfect as possible. Then you will do fine.
 
-## Recommended Books<a id="sec-1-12" name="sec-1-12"></a>
+## LinkedIn Tips<a id="sec-1-6" name="sec-1-6"></a>
 
--   TODO
-
-## Web page<a id="sec-1-13" name="sec-1-13"></a>
-
--   [22 LinkedIn Secrets LinkedIn Won't Tell You](https://www.forbes.com/sites/williamarruda/2014/03/04/22-linkedin-secrets-linkedin-wont-tell-you/)
-
-## LinkedIn Tips<a id="sec-1-14" name="sec-1-14"></a>
-
-### linkedin use emoji icons<a id="sec-1-14-1" name="sec-1-14-1"></a>
+### linkedin use emoji icons<a id="sec-1-6-1" name="sec-1-6-1"></a>
 
 <https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste-brynne-tillman>  
-<https://www.linkedin.com/pulse/how-add-emojis-your-linkedin-profile-posts-john-nemo>
+<https://www.linkedin.com/pulse/how-add-emojis-your-linkedin-profile-posts-john-nemo>  
+
+## Recommended Resources<a id="sec-1-7" name="sec-1-7"></a>
+
+### Books<a id="sec-1-7-1" name="sec-1-7-1"></a>
+
+### Role Models<a id="sec-1-7-2" name="sec-1-7-2"></a>
+
+-   Be connected with Active publisher in Linkedin Groups
+-   TODO
+
+### Web pages<a id="sec-1-7-3" name="sec-1-7-3"></a>
+
+-   [22 LinkedIn Secrets LinkedIn Won't Tell You](https://www.forbes.com/sites/williamarruda/2014/03/04/22-linkedin-secrets-linkedin-wont-tell-you/)
