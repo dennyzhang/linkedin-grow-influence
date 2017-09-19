@@ -20,12 +20,12 @@
 </li>
 <li><a href="#sec-1-5">1.5. Doc Templates</a>
 <ul>
-<li><a href="#sec-1-5-1">1.5.1. Doc template: career guide for DevOps newbie</a></li>
+<li><a href="#sec-1-5-1">1.5.1. Doc: career guide for DevOps newbie</a></li>
 <li><a href="#sec-1-5-2">1.5.2. Doc: Send Gratitude For Valuable Input</a></li>
 <li><a href="#sec-1-5-3">1.5.3. Doc: When People Thank Me for My Endorsing</a></li>
-<li><a href="#sec-1-5-4">1.5.4. Doc template: Reject reply a specific question in LinkedIn</a></li>
-<li><a href="#sec-1-5-5">1.5.5. Doc template: Why you connect with me from new connections</a></li>
-<li><a href="#sec-1-5-6">1.5.6. Doc template: reject audience who is not your target</a></li>
+<li><a href="#sec-1-5-4">1.5.4. Doc: Reject reply a specific question in LinkedIn</a></li>
+<li><a href="#sec-1-5-5">1.5.5. Doc: Why you connect with me from new connections</a></li>
+<li><a href="#sec-1-5-6">1.5.6. Doc: reject audience who is not your target</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-6">1.6. LinkedIn Tips</a>
@@ -136,7 +136,7 @@ Route your active friends/fans into your slack group.
 
 ## Doc Templates<a id="sec-1-5" name="sec-1-5"></a>
 
-### Doc template: career guide for DevOps newbie<a id="sec-1-5-1" name="sec-1-5-1"></a>
+### Doc: career guide for DevOps newbie<a id="sec-1-5-1" name="sec-1-5-1"></a>
 
     XXX, maybe you can check this LinkedIn discussion? 
     
@@ -152,7 +152,7 @@ XXX, nice talking with you in LinkedIn.  Looking forward to more DevOps discussi
 
 XXX, sure thing. Nice to have the DevOps discussion with you in LInkedIn.  Looking forward to more in the coming weeks! I do see lots of things in common with you.  
 
-### Doc template: Reject reply a specific question in LinkedIn<a id="sec-1-5-4" name="sec-1-5-4"></a>
+### Doc: Reject reply a specific question in LinkedIn<a id="sec-1-5-4" name="sec-1-5-4"></a>
 
     XXX
     
@@ -165,7 +165,7 @@ XXX, sure thing. Nice to have the DevOps discussion with you in LInkedIn.  Looki
     
     Hope you can conquer your puzzles soon?
 
-### Doc template: Why you connect with me from new connections<a id="sec-1-5-5" name="sec-1-5-5"></a>
+### Doc: Why you connect with me from new connections<a id="sec-1-5-5" name="sec-1-5-5"></a>
 
     XXX
     Hi Denny, trying to remember how we know each other ... maybe you can remind me?
@@ -179,7 +179,7 @@ XXX, sure thing. Nice to have the DevOps discussion with you in LInkedIn.  Looki
     
     So I reach out to be connected with you, XXX.
 
-### Doc template: reject audience who is not your target<a id="sec-1-5-6" name="sec-1-5-6"></a>
+### Doc: reject audience who is not your target<a id="sec-1-5-6" name="sec-1-5-6"></a>
 
 Sorry I really out of bandwidth to support this. You are on your own now. Good luck.  
 

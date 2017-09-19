@@ -68,7 +68,7 @@ Route your active friends/fans into your slack group.
 *** TODO How to identity connections who has little common interest with me
 *** TODO How to identity connections who has less than 100 connections
 ** Doc Templates
-*** Doc template: career guide for DevOps newbie
+*** Doc: career guide for DevOps newbie
 #+BEGIN_EXAMPLE
 XXX, maybe you can check this LinkedIn discussion? 
 
@@ -132,11 +132,11 @@ Thanks :) appreciate
 9:07 AM
 Read 
 #+END_EXAMPLE
-*** [#A] Doc: Send Gratitude For Valuable Input
+*** Doc: Send Gratitude For Valuable Input
 XXX, nice talking with you in LinkedIn.  Looking forward to more DevOps discussions with you in the coming weeks!
-*** [#A] Doc: When People Thank Me for My Endorsing
+*** Doc: When People Thank Me for My Endorsing
 XXX, sure thing. Nice to have the DevOps discussion with you in LInkedIn.  Looking forward to more in the coming weeks! I do see lots of things in common with you.
-*** Doc template: Reject reply a specific question in LinkedIn
+*** Doc: Reject reply a specific question in LinkedIn
    CLOSED: [2017-07-24 Mon 10:33]
 #+BEGIN_EXAMPLE
 XXX
@@ -193,7 +193,7 @@ Denny Zhang sent the following messages at 4:09 PM
 Nowadays most people are living in the world of public cloud.  This makes local DHCP less popular. Surely your problem matters for your project. I fully understand that.
 Just I don't want to spam people with things they may not be interested. Hope you understand, my friend.
 #+END_EXAMPLE
-*** Doc template: Why you connect with me from new connections
+*** Doc: Why you connect with me from new connections
    CLOSED: [2017-07-24 Mon 10:36]
 #+BEGIN_EXAMPLE
 XXX
@@ -208,7 +208,7 @@ It would be nice, if we can have in-depth technical discussions on the internet.
 
 So I reach out to be connected with you, XXX.
 #+END_EXAMPLE
-*** Doc template: reject audience who is not your target
+*** Doc: reject audience who is not your target
 Sorry I really out of bandwidth to support this. You are on your own now. Good luck.
 ** LinkedIn Tips
 *** linkedin use emoji icons
