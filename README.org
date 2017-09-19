@@ -24,32 +24,34 @@
 - Reach out people and offer helps
 - Real and deep conversations starts from private messages
 - Treat every audience as a respectful professional
-** Routine tasks
-*** New connections
-- Send private messages, if you notice some inspiring comments
-- Send connection invitation for who likes/comments my Linkedin updates for this week
-*** Content Management
-- Add comments, instead of likes: It helps to promote yourself
-- Add discussion summary, @people selectively
-*** Old Connections
-- Send out private messages to close friends regularly
-- Every moning take 5 minutes: Check Selective Friends LinkedIn Updates
-- For discussion, @people for friends who might be interested
-*** Start a topic
+** Routine Tasks
+*** Content
+**** Start A Topic
 - Start with a real story from yourself: it's ok to make fun of yourself, as long as it's real
 - Start with an easy and open question: either useful or funny
 - Explain your question in a simple and easy-to-understand way: People are careless and biasd
 - As long as people want to say something, and easy to chimp in mind
-
-*** Maintain a topic
+**** Maintain a topic
 - Avoid getting people distracted from your original topic
 - Ask the Right questions in a suitable question
 - Add a recap after 3 days: summarize the discussions
 - Speak out people's name, and speak with due respect!
-*** Monetize The Effort
+**** Content Management
+- Add comments, instead of likes: It helps to promote yourself
+- Add discussion summary, @people selectively
+*** People
+**** New Connections
+- Send private messages, if you notice some inspiring comments
+- Send connection invitation for who likes/comments my Linkedin updates for this week
+**** Old Connections
+- Send out private messages to close friends regularly
+- Every moning take 5 minutes: Check Selective Friends LinkedIn Updates
+- For discussion, @people for friends who might be interested
+*** Opportunities
+**** Monetize The Effort
 - Get feedbacks for technical details
 - Get *the direction or trends* for the tech community
-*** Find questions to offer help
+**** Find questions to offer help
 - People may post updates with their problems (@ you or won’t @ you)
 - People may comment your update with their problems
 - search LinkedIn technical questions, send private messages, and build connections
@@ -146,9 +148,9 @@ F.Y.I
 I usually use LinkedIn to ask for experience and directions. Instead of tech details.
 For specific issues, we usually can fix with enough reading and testing sooner or later.
 
-After all, any skilled IT professional would already be very busy with his/her daily work. Right, my friend?
+Hope you can conquer your puzzles soon?
 #+END_EXAMPLE
-**** sample                                                        :noexport:
+**** misc                                                          :noexport:
 #+BEGIN_EXAMPLE
 hello I have one question
  Sunil Kumar
@@ -194,7 +196,7 @@ Just I don't want to spam people with things they may not be interested. Hope yo
 *** Doc template: Why you connect with me from new connections
    CLOSED: [2017-07-24 Mon 10:36]
 #+BEGIN_EXAMPLE
-Elsa Hill
+XXX
 Hi Denny, trying to remember how we know each other ... maybe you can remind me?
 
 #  --8<-------------------------- separator ------------------------>8--
@@ -207,23 +209,7 @@ It would be nice, if we can have in-depth technical discussions on the internet.
 So I reach out to be connected with you, XXX.
 #+END_EXAMPLE
 *** Doc template: reject audience who is not your target
-   CLOSED: [2017-08-17 Thu 17:11]
-#+BEGIN_EXAMPLE
-JJ
-
-Try google . Docker compose is a very typical solution in container world. 
-
-My blog is supposed to serve DevOps community. And docker is default skill for DevOps professionals.
-
-Sorry I really don't have bandwidth to support people who are not in the target audience. You are on your own now. Good luck.
-
-Sent from my iPhone
-
-On Aug 17, 2017, at 5:27 AM, JJmanuel Shadowsocks <mjeusomjerie@gmail.com> wrote:
-
-Sir do you have any tutorial with this docker compose you are talking about.,? Can you please help me with your step by step procedure.. im am so willing to learn and even it so hard i will try my best to learn somehow..
-#+END_EXAMPLE
-
+Sorry I really out of bandwidth to support this. You are on your own now. Good luck.
 ** LinkedIn Tips
 *** linkedin use emoji icons
 https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste-brynne-tillman
