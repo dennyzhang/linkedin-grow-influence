@@ -22,15 +22,14 @@
 <li><a href="#sec-1-4-1">1.4.1. How to properly backup LinkedIn chat history?</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-5">1.5. LinkedIn Doc Templates</a>
+<li><a href="#sec-1-5">1.5. Doc Templates</a>
 <ul>
-<li><a href="#sec-1-5-1">1.5.1. Doc template: Send gratitude for who give me valuable feedback for Linkedin discussions</a></li>
-<li><a href="#sec-1-5-2">1.5.2. Doc template: People thanks me for endorsing</a></li>
-<li><a href="#sec-1-5-3">1.5.3. Doc template: Reject reply a specific question in LinkedIn</a></li>
-<li><a href="#sec-1-5-4">1.5.4. Doc template: People ask career advice</a></li>
+<li><a href="#sec-1-5-1">1.5.1. Doc template: career guide for DevOps newbie</a></li>
+<li><a href="#sec-1-5-2">1.5.2. Doc: Send Gratitude For Valuable Input</a></li>
+<li><a href="#sec-1-5-3">1.5.3. Doc: When People Thank Me for My Endorsing</a></li>
+<li><a href="#sec-1-5-4">1.5.4. Doc template: Reject reply a specific question in LinkedIn</a></li>
 <li><a href="#sec-1-5-5">1.5.5. Doc template: Why you connect with me from new connections</a></li>
 <li><a href="#sec-1-5-6">1.5.6. Doc template: reject audience who is not your target</a></li>
-<li><a href="#sec-1-5-7">1.5.7. Doc template: career guide for DevOps newbie</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-6">1.6. LinkedIn Tips</a>
@@ -133,21 +132,25 @@
 
 Route your active friends/fans into your slack group.  
 
-## LinkedIn Doc Templates<a id="sec-1-5" name="sec-1-5"></a>
+## Doc Templates<a id="sec-1-5" name="sec-1-5"></a>
 
-### Doc template: Send gratitude for who give me valuable feedback for Linkedin discussions<a id="sec-1-5-1" name="sec-1-5-1"></a>
+### Doc template: career guide for DevOps newbie<a id="sec-1-5-1" name="sec-1-5-1"></a>
 
-    Denny Zhang sent the following message at 5:36 PM
-    Paul, nice talking with you in LinkedIn.  Looking forward to more DevOps discussions with you in the coming weeks!
+    XXX, maybe you can check this LinkedIn discussion? 
+    
+    https://www.linkedin.com/feed/update/urn:li:activity:6302225978567507968
+    
+    Add comments, if you need more advice. People might help.
 
-### Doc template: People thanks me for endorsing<a id="sec-1-5-2" name="sec-1-5-2"></a>
+### Doc: Send Gratitude For Valuable Input<a id="sec-1-5-2" name="sec-1-5-2"></a>
 
-    Thanks for endorsing me for Cloud Computing!
-    9:29 PM
-    Denny Zhang sent the following message at 9:32 PM
-    Sure thing, Praveen. Nice to have the DevOps discussion with you in LInkedIn.  Looking forward to more in the coming weeks! I do see lots of things in common with you, Praveen.
+XXX, nice talking with you in LinkedIn.  Looking forward to more DevOps discussions with you in the coming weeks!  
 
-### Doc template: Reject reply a specific question in LinkedIn<a id="sec-1-5-3" name="sec-1-5-3"></a>
+### Doc: When People Thank Me for My Endorsing<a id="sec-1-5-3" name="sec-1-5-3"></a>
+
+XXX, sure thing. Nice to have the DevOps discussion with you in LInkedIn.  Looking forward to more in the coming weeks! I do see lots of things in common with you.  
+
+### Doc template: Reject reply a specific question in LinkedIn<a id="sec-1-5-4" name="sec-1-5-4"></a>
 
     XXX
     
@@ -159,35 +162,6 @@ Route your active friends/fans into your slack group.
     For specific issues, we usually can fix with enough reading and testing sooner or later.
     
     After all, any skilled IT professional would already be very busy with his/her daily work. Right, my friend?
-
-### Doc template: People ask career advice<a id="sec-1-5-4" name="sec-1-5-4"></a>
-
-    Hey, nice reading your profile. I am currently a full stack python developer, and i have now experience with shell script and linux and i am comfortable with both of these. I am writing to you as i am very uncertain as to what to choose for my career. I ahve done courses on puppet, ansible, docker and AWS solutions architect and i use them in my personal projects. I also have experience with machine learning and have been doing projects on the same. I wanted to seek your help on how should i direct my career towards. I desperately need your inputs. Thanks :)
-    8:49 AM
-    Denny Zhang sent the following message at 8:51 AM
-    Akash, thanks for asking. I don't quite get your point.  So what you want, or who you want to be?
-    8:51 AM
-    Akash Ranjan sent the following messages at 8:54 AM
-     Akash Ranjan
-    I am not very clear, i just know one thing that i am very confident that i can do whatever i want to do. I am very persistent and hard working. But i lack a good mentorship and direction. Any help would be deeply appreciated.
-     Akash Ranjan
-    I can do whatever the market demands as a prestigious role or say i am interested in doing a sophisticated and complicated tasks.
-    8:54 AM
-    Denny Zhang sent the following message at 9:00 AM
-    I think that's a question for yourself, Akash. Everyone needs to find his/her own way.  Not sure whether it helps. Here is my story. When I graduated from the college, I evaluated my weakness and strength. (As a newbie, you can't get it right and accurate.)  I know I'm not interested as salesmen, and I don't feel comfortable if I say something I can't understand or believe.  Then I find my best job I can, which it's EMC. Inside EMC, it takes several years to understand my passion: keep polishing and improving things.  Afterwards I swift from IaaS engineer, to PaaS, to full stack. And now devops.  To be simple, understand yourself and your desire. Follow your passion. Don't follow the money. It will come, if you can bring values to others.
-    9:00 AM
-    Akash Ranjan sent the following message at 9:02 AM
-     Akash Ranjan
-    It did helped :) thanks :) i will be in touch with you :)
-    9:02 AM
-    Denny Zhang sent the following message at 9:06 AM
-    You're on your own for this journey. Keep thinking.  Follow your passion, or at least what interests you.  Dedication and determination are the keys. And any serious achievements will take several years' hard work.   Remember don't follow the money. You will be mislead easily.
-    9:06 AM
-    Akash Ranjan sent the following message at 9:07 AM
-     Akash Ranjan
-    Thanks :) appreciate
-    9:07 AM
-    Read
 
 ### Doc template: Why you connect with me from new connections<a id="sec-1-5-5" name="sec-1-5-5"></a>
 
@@ -218,34 +192,6 @@ Route your active friends/fans into your slack group.
     On Aug 17, 2017, at 5:27 AM, JJmanuel Shadowsocks <mjeusomjerie@gmail.com> wrote:
     
     Sir do you have any tutorial with this docker compose you are talking about.,? Can you please help me with your step by step procedure.. im am so willing to learn and even it so hard i will try my best to learn somehow..
-
-### Doc template: career guide for DevOps newbie<a id="sec-1-5-7" name="sec-1-5-7"></a>
-
-    XXX, maybe you can check this LinkedIn discussion? 
-    
-    https://www.linkedin.com/feed/update/urn:li:activity:6302225978567507968
-    
-    Add comments, if you need more advice. People might help.
-    
-    #  --8<-------------------------- separator ------------------------>8--
-    XXX, I understand your pain points. You want experience, learn more and learn faster. Then get a good job offer.
-    
-    However it's hard for me to answer that. So many variables. Maybe you can check below LinkedIn discussion. See whether it helps.
-
-    I have only 1 yr exp in devops. Can you suggest some career path which will help me to grow as devops engineer.
-
-    Hi Denny
-     Sanith Raj S
-    I'm a linux system engineer working on apache cloud stalk and onapp
-     Sanith Raj S
-    I want to build my carrier on Devops. I'm having knowledge in Ansible,Docker,GIT,Puppet and working knowledge in AWS
-     Sanith Raj S
-    Also having skill in Bash & Python scripting
-     Sanith Raj S
-    If you don't mind, can you guide me how I can build my carrier in Devops
-    12:11 PM
-    Denny Zhang sent the following message at 2:39 PM
-    Sanity, I would say: Getting involved in our DevOps Discussions in LinkedIn. Try to deliver your daily work as perfect as possible. Then you will do fine.
 
 ## LinkedIn Tips<a id="sec-1-6" name="sec-1-6"></a>
 
