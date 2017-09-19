@@ -35,7 +35,7 @@
 </li>
 <li><a href="#sec-1-7">1.7. Recommended Resources</a>
 <ul>
-<li><a href="#sec-1-7-1">1.7.1. Books</a></li>
+<li><a href="#sec-1-7-1">1.7.1. Book: Contagious. Why Things Catch On</a></li>
 <li><a href="#sec-1-7-2">1.7.2. Role Models</a></li>
 <li><a href="#sec-1-7-3">1.7.3. Web pages</a></li>
 </ul>
@@ -191,9 +191,9 @@ See here: [link1](https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile
 
 ## Recommended Resources<a id="sec-1-7" name="sec-1-7"></a>
 
-### Books<a id="sec-1-7-1" name="sec-1-7-1"></a>
+### Book: Contagious. Why Things Catch On<a id="sec-1-7-1" name="sec-1-7-1"></a>
 
--   TODO
+-   Contagious: Why Things Catch On by Jonah Berger. [Amazon purchase Link](https://www.amazon.com/gp/product/1451686587/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1451686587&linkCode=as2&tag=dennyzhang-20&linkId=2e380926eec0d144e0648f532e1ad78e).
 
 ### Role Models<a id="sec-1-7-2" name="sec-1-7-2"></a>
 
