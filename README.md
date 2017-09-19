@@ -187,12 +187,13 @@ Sorry I really out of bandwidth to support this. You are on your own now. Good l
 
 ### linkedin use emoji icons<a id="sec-1-6-1" name="sec-1-6-1"></a>
 
-<https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste-brynne-tillman>  
-<https://www.linkedin.com/pulse/how-add-emojis-your-linkedin-profile-posts-john-nemo>  
+See here: [link1](https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste-brynne-tillman), [link2](https://www.linkedin.com/pulse/how-add-emojis-your-linkedin-profile-posts-john-nemo)  
 
 ## Recommended Resources<a id="sec-1-7" name="sec-1-7"></a>
 
 ### Books<a id="sec-1-7-1" name="sec-1-7-1"></a>
+
+-   TODO
 
 ### Role Models<a id="sec-1-7-2" name="sec-1-7-2"></a>
 

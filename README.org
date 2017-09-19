@@ -212,10 +212,10 @@ So I reach out to be connected with you, XXX.
 Sorry I really out of bandwidth to support this. You are on your own now. Good luck.
 ** LinkedIn Tips
 *** linkedin use emoji icons
-https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste-brynne-tillman
-https://www.linkedin.com/pulse/how-add-emojis-your-linkedin-profile-posts-john-nemo
+See here: [[https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simple-copy-paste-brynne-tillman][link1]], [[https://www.linkedin.com/pulse/how-add-emojis-your-linkedin-profile-posts-john-nemo][link2]]
 ** Recommended Resources
 *** Books
+- TODO
 *** Role Models
 - Be connected with Active publisher in Linkedin Groups
 - TODO
