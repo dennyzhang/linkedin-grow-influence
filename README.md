@@ -62,10 +62,9 @@
 ## Lessons learned<a id="sec-1-1" name="sec-1-1"></a>
 
 -   Only show pople more information, after you're interested. Otherwise you're spamming people.
--   You come here to learn, instead of teach or sell
--   Only selectively topics are discussed on the internet
--   Always remember: Lots of experienced professionals are inactive in social media
+-   You come here to learn, instead of teaching or selling.
 -   Avoid talking nonsense or common sense: waste times for both sides
+-   Always remember: Lots of experienced professionals are inactive in social media
 
 ## Principle<a id="sec-1-2" name="sec-1-2"></a>
 
