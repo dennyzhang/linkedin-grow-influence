@@ -20,6 +20,7 @@
 - Real and deep conversations starts from private messages
 - Avoid talking nonsense or common sense: waste times for both sides
 - Always remember: Lots of experienced professionals are inactive in social media
+- Offer free help by starting private conversations
 ** Principle
 - Grow everything in an oragnic way.
 - Reach out people and offer helps
@@ -53,10 +54,12 @@
 - Every moning take 5 minutes: Check Selective Friends LinkedIn Updates
 - For discussion, @people for friends who might be interested
 - For close tech friends, write them LinkedIn recommendations
+- Periodically endorse and give recommendations for your new close friends
 *** Opportunities
 **** Monetize The Effort
 - Get feedbacks for technical details
 - Get *the direction or trends* for the tech community
+- Ask people to take small actions, which will only take seconds
 **** Find questions to offer help
 - People may post updates with their problems (@ you or won’t @ you)
 - People may comment your update with their problems
@@ -222,11 +225,21 @@ See here: [[https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simpl
 - TODO
 *** Web pages
 - [[https://www.forbes.com/sites/williamarruda/2014/03/04/22-linkedin-secrets-linkedin-wont-tell-you/][22 LinkedIn Secrets LinkedIn Won't Tell You]]
+** Principle In Chinese                                            :noexport:
+- 第一句话，要抓人眼球
+- 自己不容否认的便利，是抵lai不掉的
+- 人都有逆反心理
+*** 说话时埋坑，让对方有常规套路来互动
+*** Values: 得到开心, 解决问题, 得到治愈
 ** CANCELED                                                        :noexport:
 *** CANCELED hootsuite share blog posts to linkedin groups
     CLOSED: [2017-09-20 Wed 10:50]
+*** CANCELED Be connected with my Linkedin active subscribers in Twitter
+    CLOSED: [2017-09-20 Wed 10:58]
 ** #  --8<-------------------------- separator ------------------------>8-- :noexport:
-** TODO [#A] Help others to solve questions they have posted: ask recommendations, if it's a good timing
+** TODO Add linkedin profile background image more attractive and memorable to visitors
+** TODO Add linkedin background image
+** TODO find linkedin people from group
 ** TODO Add Summary at the end of the discussion: for yourself and for the community
 - Only summarize popular discussions: 20+ comments
 - Only summarize constructive discussions: something you've learned
@@ -245,27 +258,8 @@ Guys, My Discussion Summary:
 Many thanks for everyone!
 
 https://www.linkedin.com/feed/update/urn:li:activity:6288957536393588736/
-** misc                                                                   :noexport:
-*** 说话时埋坑，让对方有常规套路来互动
-*** Values: 得到开心, 解决问题, 得到治愈
-** chinese principle                                               :noexport:
-- 第一句话，要抓人眼球
-- 自己不容否认的便利，是抵lai不掉的
-- 人都有逆反心理
-
-** #  --8<-------------------------- separator ------------------------>8-- :noexport:
-** [#A] Make better usage of LinkedIn                              :noexport:
-*** HALF send connection invitation for who likes/comments my Linkedin update in the past one month
-*** HALF peroical endorse and give recommendations for your new close friends in Linkedin
-*** HALF Ask people to take small actions, which will only take seconds
-*** #  --8<-------------------------- separator ------------------------>8--
-*** DONE integrate Linkedin with my wordpress: Add LinkedIn screenshot to blog posts
-    CLOSED: [2017-09-05 Tue 10:29]
-*** DONE Offer volunteer help in LinkedIn by starting private conversations
-    CLOSED: [2017-09-05 Tue 10:30]
-*** DONE Ask people to take actions: add LinkedIn
-    CLOSED: [2017-08-15 Tue 22:25]
-** doc template: new devops people onboard                         :noexport:
+** TODO [#A] Help others to solve questions they have posted: ask recommendations, if it's a good timing
+** TODO doc template: new devops people onboard                    :noexport:
 #+BEGIN_EXAMPLE
 Hi Denny,  Thanks for the connection, I'm starting a new role in November as a Cloud Infrastructure Engineer (AWS, IaC, Jenkins) supporting multiple dev teams. I've read a few of your blog posts through mutual connections and I'm keen to absorb as much as I can from more experiences DevOps professionals.   Cheers, Jeff
 3:30 AM
@@ -275,6 +269,3 @@ Jeff, congratulation on your new role.
 Denny Zhang sent the following message at 8:02 AM
 So, Jeff, you're not on board yet. If I were you, I would start contacting the my customers. The dev teams.  1. Talk with them, listen to them. Understand the problems and the painpoints. Make friends with them.  2. Know the major toolset in those projects. And be familiar with them. If it's not decided yet, then learn docker+Jenkins+monitoring tool(nagios?)+config mgmt tool(ansible)  3. If you want to reach out community, I'm pretty active in LinkedIn. Also there are some DevOps slack groups. devopschat, hangops. If you like, I also have one. (Search "slack" in my blog, you will see).  As a conclusion: people -> problems -> tools.
 #+END_EXAMPLE
-** TODO add linkedin background image
-** CANCELED Be connected with my Linkedin active subscribers in Twitter
-   CLOSED: [2017-09-20 Wed 10:58]

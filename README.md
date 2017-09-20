@@ -40,7 +40,6 @@
 <li><a href="#sec-1-7-3">1.7.3. Web pages</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-8">1.8. <span class="done CANCELED">CANCELED</span> Be connected with my Linkedin active subscribers in Twitter</a></li>
 </ul>
 </li>
 </ul>
@@ -67,6 +66,7 @@
 -   Real and deep conversations starts from private messages
 -   Avoid talking nonsense or common sense: waste times for both sides
 -   Always remember: Lots of experienced professionals are inactive in social media
+-   Offer free help by starting private conversations
 
 ## Principle<a id="sec-1-2" name="sec-1-2"></a>
 
@@ -115,6 +115,7 @@
 -   Every moning take 5 minutes: Check Selective Friends LinkedIn Updates
 -   For discussion, @people for friends who might be interested
 -   For close tech friends, write them LinkedIn recommendations
+-   Periodically endorse and give recommendations for your new close friends
 
 ### Opportunities<a id="sec-1-3-3" name="sec-1-3-3"></a>
 
@@ -122,6 +123,7 @@
 
 -   Get feedbacks for technical details
 -   Get **the direction or trends** for the tech community
+-   Ask people to take small actions, which will only take seconds
 
 #### Find questions to offer help<a id="sec-1-3-3-2" name="sec-1-3-3-2"></a>
 
@@ -205,5 +207,3 @@ See here: [link1](https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile
 ### Web pages<a id="sec-1-7-3" name="sec-1-7-3"></a>
 
 -   [22 LinkedIn Secrets LinkedIn Won't Tell You](https://www.forbes.com/sites/williamarruda/2014/03/04/22-linkedin-secrets-linkedin-wont-tell-you/)
-
-## CANCELED Be connected with my Linkedin active subscribers in Twitter<a id="sec-1-8" name="sec-1-8"></a>
