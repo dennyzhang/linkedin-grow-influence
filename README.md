@@ -63,19 +63,19 @@
 
 -   Only show pople more information, after you're interested. Otherwise you're spamming people.
 -   You come here to learn, instead of teaching or selling.
+-   Real and deep conversations starts from private messages
 -   Avoid talking nonsense or common sense: waste times for both sides
 -   Always remember: Lots of experienced professionals are inactive in social media
 
 ## Principle<a id="sec-1-2" name="sec-1-2"></a>
 
 -   Grow everything in an oragnic way.
+-   Reach out people and offer helps
+-   Fake won't work. You have to be real and serious.
 -   Talk just like face-to-face
 -   Short sentence win
 -   No matter you post or comment, make sure it add values to your audience
--   Fake won't work. You have to be real and serious.
 -   Boostbluffing < Talk < Listen < Learn
--   Reach out people and offer helps
--   Real and deep conversations starts from private messages
 -   Treat every audience as a respectful professional
 
 ## Routine Tasks<a id="sec-1-3" name="sec-1-3"></a>
