@@ -4,15 +4,15 @@
 <ul>
 <li><a href="#sec-1">1. Grow Influence In LinkedIn</a>
 <ul>
-<li><a href="#sec-1-1">1.1. Principle</a></li>
-<li><a href="#sec-1-2">1.2. Routine Tasks</a>
+<li><a href="#sec-1-1">1.1. Lessons learned</a></li>
+<li><a href="#sec-1-2">1.2. Principle</a></li>
+<li><a href="#sec-1-3">1.3. Routine Tasks</a>
 <ul>
-<li><a href="#sec-1-2-1">1.2.1. Content</a></li>
-<li><a href="#sec-1-2-2">1.2.2. People</a></li>
-<li><a href="#sec-1-2-3">1.2.3. Opportunities</a></li>
+<li><a href="#sec-1-3-1">1.3.1. Content</a></li>
+<li><a href="#sec-1-3-2">1.3.2. People</a></li>
+<li><a href="#sec-1-3-3">1.3.3. Opportunities</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-3">1.3. Lessons learned</a></li>
 <li><a href="#sec-1-4">1.4. Open Questions</a>
 <ul>
 <li><a href="#sec-1-4-1">1.4.1. How to properly backup LinkedIn chat history?</a></li>
@@ -59,7 +59,15 @@
 
 ---
 
-## Principle<a id="sec-1-1" name="sec-1-1"></a>
+## Lessons learned<a id="sec-1-1" name="sec-1-1"></a>
+
+-   Only show pople more information, after you're interested. Otherwise you're spamming people.
+-   You come here to learn, instead of teach or sell
+-   Only selectively topics are discussed on the internet
+-   Always remember: Lots of experienced professionals are inactive in social media
+-   Avoid talking nonsense or common sense: waste times for both sides
+
+## Principle<a id="sec-1-2" name="sec-1-2"></a>
 
 -   Grow everything in an oragnic way.
 -   Talk just like face-to-face
@@ -71,64 +79,56 @@
 -   Real and deep conversations starts from private messages
 -   Treat every audience as a respectful professional
 
-## Routine Tasks<a id="sec-1-2" name="sec-1-2"></a>
+## Routine Tasks<a id="sec-1-3" name="sec-1-3"></a>
 
-### Content<a id="sec-1-2-1" name="sec-1-2-1"></a>
+### Content<a id="sec-1-3-1" name="sec-1-3-1"></a>
 
-#### Start A Topic<a id="sec-1-2-1-1" name="sec-1-2-1-1"></a>
+#### Start A Topic<a id="sec-1-3-1-1" name="sec-1-3-1-1"></a>
 
 -   Start with a real story from yourself: it's ok to make fun of yourself, as long as it's real
 -   Start with an easy and open question: either useful or funny
 -   Explain your question in a simple and easy-to-understand way: People are careless and biasd
 -   As long as people want to say something, and easy to chimp in mind
 
-#### Maintain a topic<a id="sec-1-2-1-2" name="sec-1-2-1-2"></a>
+#### Maintain a topic<a id="sec-1-3-1-2" name="sec-1-3-1-2"></a>
 
 -   Avoid getting people distracted from your original topic
 -   Ask the Right questions in a suitable question
 -   Add a recap after 3 days: summarize the discussions
 -   Speak out people's name, and speak with due respect!
 
-#### Content Management<a id="sec-1-2-1-3" name="sec-1-2-1-3"></a>
+#### Content Management<a id="sec-1-3-1-3" name="sec-1-3-1-3"></a>
 
 -   Add comments, instead of likes: It helps to promote yourself
 -   Add discussion summary, @people selectively
 
-### People<a id="sec-1-2-2" name="sec-1-2-2"></a>
+### People<a id="sec-1-3-2" name="sec-1-3-2"></a>
 
-#### New Connections<a id="sec-1-2-2-1" name="sec-1-2-2-1"></a>
+#### New Connections<a id="sec-1-3-2-1" name="sec-1-3-2-1"></a>
 
 -   Send private messages, if you notice some inspiring comments
 -   Send connection invitation for who likes/comments my Linkedin updates for this week
 
-#### Old Connections<a id="sec-1-2-2-2" name="sec-1-2-2-2"></a>
+#### Old Connections<a id="sec-1-3-2-2" name="sec-1-3-2-2"></a>
 
 -   Send out private messages to close friends regularly
 -   Every moning take 5 minutes: Check Selective Friends LinkedIn Updates
 -   For discussion, @people for friends who might be interested
 -   For close tech friends, write them LinkedIn recommendations
 
-### Opportunities<a id="sec-1-2-3" name="sec-1-2-3"></a>
+### Opportunities<a id="sec-1-3-3" name="sec-1-3-3"></a>
 
-#### Monetize The Effort<a id="sec-1-2-3-1" name="sec-1-2-3-1"></a>
+#### Monetize The Effort<a id="sec-1-3-3-1" name="sec-1-3-3-1"></a>
 
 -   Get feedbacks for technical details
 -   Get **the direction or trends** for the tech community
 
-#### Find questions to offer help<a id="sec-1-2-3-2" name="sec-1-2-3-2"></a>
+#### Find questions to offer help<a id="sec-1-3-3-2" name="sec-1-3-3-2"></a>
 
 -   People may post updates with their problems (@ you or won’t @ you)
 -   People may comment your update with their problems
 -   search LinkedIn technical questions, send private messages, and build connections
 -   Start conversation broadly, then start private conversation for more deep insight and under hood feedback
-
-## Lessons learned<a id="sec-1-3" name="sec-1-3"></a>
-
--   Only show pople more information, after you're interested. Otherwise you're spamming people.
--   You come here to learn, instead of teach or sell
--   Only selectively topics are discussed on the internet
--   Always remember: Lots of experienced professionals are inactive in social media
--   Avoid talking nonsense or common sense: waste times for both sides
 
 ## Open Questions<a id="sec-1-4" name="sec-1-4"></a>
 

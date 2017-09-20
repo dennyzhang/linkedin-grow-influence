@@ -14,6 +14,12 @@
 - [[https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories][Denny knowledge-base in Github]]
 
 --------------------------------------------------------
+** Lessons learned
+- Only show pople more information, after you're interested. Otherwise you're spamming people.
+- You come here to learn, instead of teach or sell
+- Only selectively topics are discussed on the internet
+- Always remember: Lots of experienced professionals are inactive in social media
+- Avoid talking nonsense or common sense: waste times for both sides
 ** Principle
 - Grow everything in an oragnic way.
 - Talk just like face-to-face
@@ -57,12 +63,6 @@
 - People may comment your update with their problems
 - search LinkedIn technical questions, send private messages, and build connections
 - Start conversation broadly, then start private conversation for more deep insight and under hood feedback
-** Lessons learned
-- Only show pople more information, after you're interested. Otherwise you're spamming people.
-- You come here to learn, instead of teach or sell
-- Only selectively topics are discussed on the internet
-- Always remember: Lots of experienced professionals are inactive in social media
-- Avoid talking nonsense or common sense: waste times for both sides
 ** [#A] Open Questions
 *** How to properly backup LinkedIn chat history?
 Route your active friends/fans into your slack group.
