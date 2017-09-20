@@ -222,6 +222,9 @@ See here: [[https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simpl
 - TODO
 *** Web pages
 - [[https://www.forbes.com/sites/williamarruda/2014/03/04/22-linkedin-secrets-linkedin-wont-tell-you/][22 LinkedIn Secrets LinkedIn Won't Tell You]]
+** CANCELED                                                        :noexport:
+*** CANCELED hootsuite share blog posts to linkedin groups
+    CLOSED: [2017-09-20 Wed 10:50]
 ** #  --8<-------------------------- separator ------------------------>8-- :noexport:
 ** TODO [#A] Help others to solve questions they have posted: ask recommendations, if it's a good timing
 ** TODO Add Summary at the end of the discussion: for yourself and for the community
@@ -272,3 +275,6 @@ Jeff, congratulation on your new role.
 Denny Zhang sent the following message at 8:02 AM
 So, Jeff, you're not on board yet. If I were you, I would start contacting the my customers. The dev teams.  1. Talk with them, listen to them. Understand the problems and the painpoints. Make friends with them.  2. Know the major toolset in those projects. And be familiar with them. If it's not decided yet, then learn docker+Jenkins+monitoring tool(nagios?)+config mgmt tool(ansible)  3. If you want to reach out community, I'm pretty active in LinkedIn. Also there are some DevOps slack groups. devopschat, hangops. If you like, I also have one. (Search "slack" in my blog, you will see).  As a conclusion: people -> problems -> tools.
 #+END_EXAMPLE
+** TODO add linkedin background image
+** CANCELED Be connected with my Linkedin active subscribers in Twitter
+   CLOSED: [2017-09-20 Wed 10:58]

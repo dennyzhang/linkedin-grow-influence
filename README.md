@@ -40,6 +40,7 @@
 <li><a href="#sec-1-7-3">1.7.3. Web pages</a></li>
 </ul>
 </li>
+<li><a href="#sec-1-8">1.8. <span class="done CANCELED">CANCELED</span> Be connected with my Linkedin active subscribers in Twitter</a></li>
 </ul>
 </li>
 </ul>
@@ -204,3 +205,5 @@ See here: [link1](https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile
 ### Web pages<a id="sec-1-7-3" name="sec-1-7-3"></a>
 
 -   [22 LinkedIn Secrets LinkedIn Won't Tell You](https://www.forbes.com/sites/williamarruda/2014/03/04/22-linkedin-secrets-linkedin-wont-tell-you/)
+
+## CANCELED Be connected with my Linkedin active subscribers in Twitter<a id="sec-1-8" name="sec-1-8"></a>
