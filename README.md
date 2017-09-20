@@ -106,6 +106,7 @@
 -   Send out private messages to close friends regularly
 -   Every moning take 5 minutes: Check Selective Friends LinkedIn Updates
 -   For discussion, @people for friends who might be interested
+-   For close tech friends, write them LinkedIn recommendations
 
 ### Opportunities<a id="sec-1-2-3" name="sec-1-2-3"></a>
 
