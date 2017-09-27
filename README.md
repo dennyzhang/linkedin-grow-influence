@@ -51,7 +51,7 @@
 
 <a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
 <a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
-<a href="https://www.dennyzhang.com/slack"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack" /></a>
+<a href="https://goo.gl/ozDDyL"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack" /></a>
 <a href="https://www.linkedin.com/in/dennyzhang001"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/linkedin.png" /></a>
 
 -   File me [tickets](<https://github.com/DennyZhang/linkedin-grow-influence/issues>) or star [this github repo](<https://github.com/DennyZhang/linkedin-grow-influence>)
