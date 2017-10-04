@@ -221,6 +221,14 @@ Slack brings people closer. Thus we can help each other more effectively.
 
 Cheers!
 #+END_EXAMPLE
+
+#+BEGIN_EXAMPLE
+Here is the link: https://goo.gl/ozDDyL 
+
+Feel free to skip, if you don't want to join.
+
+Send me a private message, if you're in.
+#+END_EXAMPLE
 *** Doc: reject audience who is not your target
 Sorry I really out of bandwidth to support this. You are on your own now. Good luck.
 ** LinkedIn Tips
