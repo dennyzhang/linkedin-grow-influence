@@ -25,7 +25,8 @@
 <li><a href="#sec-1-5-3">1.5.3. Doc: When People Thank Me for My Endorsing</a></li>
 <li><a href="#sec-1-5-4">1.5.4. Doc: Reject reply a specific question in LinkedIn</a></li>
 <li><a href="#sec-1-5-5">1.5.5. Doc: Why you connect with me from new connections</a></li>
-<li><a href="#sec-1-5-6">1.5.6. Doc: reject audience who is not your target</a></li>
+<li><a href="#sec-1-5-6">1.5.6. Doc: Invite people into slack</a></li>
+<li><a href="#sec-1-5-7">1.5.7. Doc: reject audience who is not your target</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-6">1.6. LinkedIn Tips</a>
@@ -51,7 +52,7 @@
 
 <a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
 <a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
-<a href="https://goo.gl/ozDDyL"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack" /></a>
+<a href="https://www.dennyzhang.com/slack"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack" /></a>
 <a href="https://www.linkedin.com/in/dennyzhang001"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/linkedin.png" /></a>
 
 -   File me [tickets](<https://github.com/DennyZhang/linkedin-grow-influence/issues>) or star [this github repo](<https://github.com/DennyZhang/linkedin-grow-influence>)
@@ -143,10 +144,11 @@ Route your active friends/fans into your slack group.
 ### Doc: career guide for DevOps newbie<a id="sec-1-5-1" name="sec-1-5-1"></a>
 
     XXX, maybe you can check this LinkedIn discussion? 
-    
     https://www.linkedin.com/feed/update/urn:li:activity:6302225978567507968
     
-    Add comments, if you need more advice. People might help.
+    Add comments, if you need more advice.
+    
+    We also have a slack group with #slack-101 channel. Join us if you're interested: https://goo.gl/ozDDyL
 
 ### Doc: Send Gratitude For Valuable Input<a id="sec-1-5-2" name="sec-1-5-2"></a>
 
@@ -183,7 +185,15 @@ XXX, sure thing. Nice to have the DevOps discussion with you in LInkedIn.  Looki
     
     So I reach out to be connected with you, XXX.
 
-### Doc: reject audience who is not your target<a id="sec-1-5-6" name="sec-1-5-6"></a>
+### Doc: Invite people into slack<a id="sec-1-5-6" name="sec-1-5-6"></a>
+
+    Sure thing. If you're in slack, send me a private message.
+    
+    Slack brings people closer. Thus we can help each other more effectively.
+    
+    Cheers!
+
+### Doc: reject audience who is not your target<a id="sec-1-5-7" name="sec-1-5-7"></a>
 
 Sorry I really out of bandwidth to support this. You are on your own now. Good luck.  
 

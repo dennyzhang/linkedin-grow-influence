@@ -75,10 +75,11 @@ Route your active friends/fans into your slack group.
 *** Doc: career guide for DevOps newbie
 #+BEGIN_EXAMPLE
 XXX, maybe you can check this LinkedIn discussion? 
-
 https://www.linkedin.com/feed/update/urn:li:activity:6302225978567507968
 
-Add comments, if you need more advice. People might help.
+Add comments, if you need more advice.
+
+We also have a slack group with #slack-101 channel. Join us if you're interested: https://goo.gl/ozDDyL
 #+END_EXAMPLE
 **** misc                                                          :noexport:
 #+BEGIN_EXAMPLE
@@ -211,6 +212,14 @@ I noticed we're working in DevOps field with lots of common skills.
 It would be nice, if we can have in-depth technical discussions on the internet.
 
 So I reach out to be connected with you, XXX.
+#+END_EXAMPLE
+*** Doc: Invite people into slack
+#+BEGIN_EXAMPLE
+Sure thing. If you're in slack, send me a private message.
+
+Slack brings people closer. Thus we can help each other more effectively.
+
+Cheers!
 #+END_EXAMPLE
 *** Doc: reject audience who is not your target
 Sorry I really out of bandwidth to support this. You are on your own now. Good luck.
