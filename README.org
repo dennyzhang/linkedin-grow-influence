@@ -234,7 +234,7 @@ Cheers!
 
 - Send link
 #+BEGIN_EXAMPLE
-Here is the link: https://goo.gl/ozDDyL 
+Here is the link: https://goo.gl/ozDDyL
 
 Feel free to skip, if you don't want to join.
 
