@@ -214,6 +214,16 @@ It would be nice, if we can have in-depth technical discussions on the internet.
 So I reach out to be connected with you, XXX.
 #+END_EXAMPLE
 *** Doc: Invite people into slack
+- Introduce slack group
+#+BEGIN_EXAMPLE
+This is a typical DevOps question.
+
+We have an active Slack group. #devops-101 channel might be helpful for your question.
+
+Would you like to join?
+#+END_EXAMPLE
+
+- Why I choose slack over LinkedIn
 #+BEGIN_EXAMPLE
 Sure thing. If you're in slack, send me a private message.
 
@@ -222,6 +232,7 @@ Slack brings people closer. Thus we can help each other more effectively.
 Cheers!
 #+END_EXAMPLE
 
+- Send link
 #+BEGIN_EXAMPLE
 Here is the link: https://goo.gl/ozDDyL 
 
