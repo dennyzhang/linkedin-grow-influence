@@ -236,9 +236,9 @@ Cheers!
 #+BEGIN_EXAMPLE
 Here is the link: https://goo.gl/ozDDyL
 
-Feel free to skip, if you don't want to join.
+Drop a message in #say-hi channel.
 
-Send me a private message, if you're in.
+Looking forward to discussing with you more often in Slack.
 #+END_EXAMPLE
 *** Doc: reject audience who is not your target
 Sorry I really out of bandwidth to support this. You are on your own now. Good luck.
