@@ -223,6 +223,12 @@ We have an active Slack group. #devops-101 channel might be helpful for your que
 Would you like to join?
 #+END_EXAMPLE
 
+#+BEGIN_EXAMPLE
+BTW, we have an active Slack group. Slack brings people closer. I like it very much. 
+
+Would you like to join? Feel free to skip, if you're too busy
+#+END_EXAMPLE
+
 - Why I choose slack over LinkedIn
 #+BEGIN_EXAMPLE
 Sure thing. If you're in slack, send me a private message.
