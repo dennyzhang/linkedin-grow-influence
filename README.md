@@ -50,8 +50,8 @@
 
 # Grow Influence In LinkedIn<a id="sec-1" name="sec-1"></a>
 
-<a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/linkedin.png" alt="linkedin" /></a>
-<a href="https://github.com/DennyZhang"><img src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/github.png" alt="github" /></a>
+<a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
+<a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
 <a href="https://www.dennyzhang.com/slack"><img src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/slack.png" alt="slack" /></a>
 <a href="https://www.linkedin.com/in/dennyzhang001"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/linkedin.png" /></a>
 
@@ -187,11 +187,31 @@ XXX, sure thing. Nice to have the DevOps discussion with you in LInkedIn.  Looki
 
 ### Doc: Invite people into slack<a id="sec-1-5-6" name="sec-1-5-6"></a>
 
+-   Introduce slack group
+
+    This is a typical DevOps question.
+    
+    We have an active Slack group. #devops-101 channel might be helpful for your question.
+    
+    Would you like to join?
+
+    BTW, we have an active Slack group. Slack brings people closer. I like it very much. 
+    
+    Would you like to join? Feel free to skip, if you're too busy
+
+-   Why I choose slack over LinkedIn
+
     Sure thing. If you're in slack, send me a private message.
     
     Slack brings people closer. Thus we can help each other more effectively.
     
     Cheers!
+
+-   Send link
+
+    Here is the link: https://goo.gl/ozDDyL
+    
+    Drop a message in #say-hi channel. Thus people can know you better, and help you in a better way.
 
 ### Doc: reject audience who is not your target<a id="sec-1-5-7" name="sec-1-5-7"></a>
 
