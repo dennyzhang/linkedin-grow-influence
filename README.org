@@ -79,7 +79,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:6302225978567507968
 
 Add comments, if you need more advice.
 
-We also have a slack group with #slack-101 channel. Join us if you're interested: https://goo.gl/ozDDyL
+We also have a slack group with #slack-101 channel. Join us if you're interested: https://www.dennyzhang.com/slack
 #+END_EXAMPLE
 **** misc                                                          :noexport:
 #+BEGIN_EXAMPLE
@@ -240,7 +240,7 @@ Cheers!
 
 - Send link
 #+BEGIN_EXAMPLE
-Here is the link: https://goo.gl/ozDDyL
+Here is the link: https://www.dennyzhang.com/slack
 
 Drop a message in #say-hi channel. Thus people can know you better, and help you in a better way.
 #+END_EXAMPLE

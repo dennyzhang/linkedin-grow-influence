@@ -148,7 +148,7 @@ Route your active friends/fans into your slack group.
     
     Add comments, if you need more advice.
     
-    We also have a slack group with #slack-101 channel. Join us if you're interested: https://goo.gl/ozDDyL
+    We also have a slack group with #slack-101 channel. Join us if you're interested: https://www.dennyzhang.com/slack
 
 ### Doc: Send Gratitude For Valuable Input<a id="sec-1-5-2" name="sec-1-5-2"></a>
 
@@ -209,7 +209,7 @@ XXX, sure thing. Nice to have the DevOps discussion with you in LInkedIn.  Looki
 
 -   Send link
 
-    Here is the link: https://goo.gl/ozDDyL
+    Here is the link: https://www.dennyzhang.com/slack
     
     Drop a message in #say-hi channel. Thus people can know you better, and help you in a better way.
 
