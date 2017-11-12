@@ -72,6 +72,37 @@ Route your active friends/fans into your slack group.
 *** TODO How to identity connections who has little common interest with me
 *** TODO How to identity connections who has less than 100 connections
 ** Doc Templates
+*** Doc: Invite people into slack
+- Introduce slack group
+#+BEGIN_EXAMPLE
+This is a typical DevOps question.
+
+We have an active Slack group. #devops-101 channel might be helpful for your question.
+
+Would you like to join?
+#+END_EXAMPLE
+
+#+BEGIN_EXAMPLE
+BTW, we have an active Slack group. Slack brings people closer. I like it very much. 
+
+Would you like to join? Feel free to skip, if you're too busy
+#+END_EXAMPLE
+
+- Why I choose slack over LinkedIn
+#+BEGIN_EXAMPLE
+Sure thing. If you're in slack, send me a private message.
+
+Slack brings people closer. Thus we can help each other more effectively.
+
+Cheers!
+#+END_EXAMPLE
+
+- Send link
+#+BEGIN_EXAMPLE
+Here is the link: https://www.dennyzhang.com/slack
+
+Drop a message in #say-hi channel. Thus people can know you better, and help you in a better way.
+#+END_EXAMPLE
 *** Doc: career guide for DevOps newbie
 #+BEGIN_EXAMPLE
 XXX, maybe you can check this LinkedIn discussion? 
@@ -212,37 +243,6 @@ I noticed we're working in DevOps field with lots of common skills.
 It would be nice, if we can have in-depth technical discussions on the internet.
 
 So I reach out to be connected with you, XXX.
-#+END_EXAMPLE
-*** Doc: Invite people into slack
-- Introduce slack group
-#+BEGIN_EXAMPLE
-This is a typical DevOps question.
-
-We have an active Slack group. #devops-101 channel might be helpful for your question.
-
-Would you like to join?
-#+END_EXAMPLE
-
-#+BEGIN_EXAMPLE
-BTW, we have an active Slack group. Slack brings people closer. I like it very much. 
-
-Would you like to join? Feel free to skip, if you're too busy
-#+END_EXAMPLE
-
-- Why I choose slack over LinkedIn
-#+BEGIN_EXAMPLE
-Sure thing. If you're in slack, send me a private message.
-
-Slack brings people closer. Thus we can help each other more effectively.
-
-Cheers!
-#+END_EXAMPLE
-
-- Send link
-#+BEGIN_EXAMPLE
-Here is the link: https://www.dennyzhang.com/slack
-
-Drop a message in #say-hi channel. Thus people can know you better, and help you in a better way.
 #+END_EXAMPLE
 *** Doc: reject audience who is not your target
 Sorry I really out of bandwidth to support this. You are on your own now. Good luck.
