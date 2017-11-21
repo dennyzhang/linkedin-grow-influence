@@ -167,7 +167,7 @@ Route your active friends/fans into your slack group.
 
     Here is the link: https://www.dennyzhang.com/slack
     
-    Drop a message in #say-hi channel. Thus people can know you better, and help you in a better way.
+    Please drop a message in #say-hi channel. Thus people can know you better, and help you in a better way.
 
 ### Doc: career guide for DevOps newbie<a id="sec-1-5-2" name="sec-1-5-2"></a>
 
