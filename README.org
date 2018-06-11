@@ -86,7 +86,7 @@ Would you like to join?
 #+BEGIN_EXAMPLE
 BTW, we have an active Slack group. Slack brings people closer. I like it very much. 
 
-Would you like to join? Feel free to skip, if you're too busy
+Would you like to join? Feel free to skip, if you're too busy for us
 #+END_EXAMPLE
 
 - Why I choose slack over LinkedIn
