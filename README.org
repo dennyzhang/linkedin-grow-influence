@@ -1,19 +1,33 @@
+* org-mode configuration                                           :noexport:
+#+STARTUP: overview customtime noalign logdone hidestars
+#+TITLE:  Grow Influence In LinkedIn
+#+DESCRIPTION: 
+#+KEYWORDS: 
+#+AUTHOR: Denny Zhang
+#+EMAIL:  denny@dennyzhang.com
 #+TAGS: noexport(n)
-#+OPTIONS: toc:3 \n:t ^:nil creator:nil d:nil
-#+AUTHOR: dennyzhang.com (https://www.dennyzhang.com/contact)
+#+PRIORITIES: A D C
+#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+EXPORT_EXCLUDE_TAGS: exclude noexport
 #+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
-* Grow Influence In LinkedIn
+#+LINK_UP:   
+#+LINK_HOME: 
+* Summary
 #+BEGIN_HTML
 <a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
 <a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
 <a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img src="http://slack.dennyzhang.com/badge.svg" alt="slack"/></a>
-<a href="https://www.linkedin.com/in/dennyzhang001"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/linkedin.png" /></a>
+<a href="https://github.com/DennyZhang"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png" /></a>
+
+<br/><br/>
+
+<a href="http://makeapullrequest.com" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
 #+END_HTML
+* CheatSheet
+File me [[https://github.com/DennyZhang/linkedin-grow-influence/issues][Issues]] or star [[https://github.com/DennyZhang/linkedin-grow-influence][this repo]].
 
-- File me [tickets](https://github.com/DennyZhang/linkedin-grow-influence/issues) or star [this github repo](https://github.com/DennyZhang/linkedin-grow-influence)
-- [[https://github.com/search?utf8=✓&q=topic%3Aknowledge-base+user%3ADennyZhang&type=Repositories][Denny knowledge-base in Github]]
-
---------------------------------------------------------
+See more Knowledgebase exported from Denny: [[https://github.com/topics/denny-knowledgebase][#denny-knowledgebase]]
 ** Lessons learned
 - Only show pople more information, after you're interested. Otherwise you're spamming people.
 - You come here to learn, instead of teaching or selling.
@@ -258,6 +272,15 @@ See here: [[https://www.linkedin.com/pulse/add-emoji-your-linkedin-profile-simpl
 - TODO
 *** Web pages
 - [[https://www.forbes.com/sites/williamarruda/2014/03/04/22-linkedin-secrets-linkedin-wont-tell-you/][22 LinkedIn Secrets LinkedIn Won't Tell You]]
+* More Resources
+License: Code is licensed under [[https://www.dennyzhang.com/wp-content/mit_license.txt][MIT License]].
+#+BEGIN_HTML
+<a href="https://www.dennyzhang.com"><img align="right" width="201" height="268" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/denny_201706.png"></a>
+
+<a href="https://www.dennyzhang.com"><img align="right" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/dns_small.png"></a>
+#+END_HTML
+* #  --8<-------------------------- separator ------------------------>8-- :noexport:
+* local notes                                                      :noexport:
 ** Principle In Chinese                                            :noexport:
 - 第一句话，要抓人眼球
 - 自己不容否认的便利，是抵lai不掉的
